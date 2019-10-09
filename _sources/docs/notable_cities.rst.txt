@@ -22,4 +22,128 @@ Kassoon
 
  Kassoon is a small city in the country of The Principality of Mingia and is mostly a tangle of alleyways and row houses, and is known for its godlessness. Their late ruler Angus Westwood was on his deathbed for quite some time until passing away under suspicious circumstances. Presently it is ruled by Fergus Westwood, son of Angus. The races live together (mostly) in harmony.
 
+Notable Locations
+-----------------
+
+A Florist’s Delight
+^^^^^^^^^^^^^^^^^^^
+
+Owner: Kirnih Oceantalon
+
+Location: Town Center
+
+Description: A pleasant building made out of wood and stone with many
+tables in front displaying vibrant flowers.
+
+Boxwood Clovers
+^^^^^^^^^^^^^^^
+
+Owner: Tifter Valeure, Male Elf
+
+Location: Town Center
+
+Description: Flower and apothecary’s shop.
+
+Employees: Guard Jafari, Guard Oktem, Deliverer Jare, Beyhan, (the store
+manager), Tulli, Kris Dicant, Shomu
+
+The Brass Raven
+^^^^^^^^^^^^^^^
+
+Owner: Malek the Bookie
+
+Location: Downtown
+
+Description: Casino and gambling hall
+
+The Wizard’s Sleeve
+^^^^^^^^^^^^^^^^^^^
+
+Owner: Halimath Ilphekiir, Male Elf
+
+Location: Down the street from the Inn.
+
+Description: Enormous large single storey brick building, in the shape
+of an open tome facing towards the street. It contains curtains draped
+over the walls and several framed paintings of wizards and warlocks.
+
+Wizard and Magic library. Tons of information can be found here on all
+kinds of various subjects. Most recently Magnus read up on the forgotten
+kingdom of The Menhirs and Halimath gave the adventurer’s additional
+hints as to what might be lurking around the tombs therein.
+
+Herb’s Garden
+^^^^^^^^^^^^^
+
+Owner: Ella Bafflestone, Female Gnome
+
+Location: In the main street near the town gate. The street outside is
+next to a large public square.
+
+Description: The alchemist store is a stone-walled two-storey building,
+with a heather-thatched roof and simple furniture
+
+Staff: Oppah Timbers (female gnome), Glim Boondiggles (male gnome),
+Shamil Maekkelferce (female gnome), Breena Pilwicken (female gnome)
+
+Little apothecary’s shop run by several enterprising Gnomes.
+
+The interior has racks all over the walls with drying ingredients.
+Additionally there’s a full rack of potions of various types.
+
+Herb’s Garden’s Potions and Other Convenient Items
+""""""""""""""""""""""""""""""""""""""""""""""""""
+
++-------------------------------+----------+
+| Item                          | Prices   |
++===============================+==========+
+| Healing Potion (regular)      | 50g      |
++-------------------------------+----------+
+| Healing Potion (greater)      | 250g     |
++-------------------------------+----------+
+| Healing Potion (superior)     | 800g     |
++-------------------------------+----------+
+| Potion of Climbing            | 100g     |
++-------------------------------+----------+
+| Oil of Slipperiness           | 300g     |
++-------------------------------+----------+
+| Potion of Animal Friendship   | 100g     |
++-------------------------------+----------+
+| Potion of Growth              | 200g     |
++-------------------------------+----------+
+| Potion of Water Breathing     | 100g     |
++-------------------------------+----------+
+| Potion of Diminution          | 200g     |
++-------------------------------+----------+
+
+The Mare’s Whinney
+^^^^^^^^^^^^^^^^^^
+
+Owner: Gaaki Hildenman, Female Half-Orc
+
+Location: In the middle of the slums. The street outside has a fortune
+teller.
+
+Description: The blacksmith is a marble two-storey building, with a
+reinforced wooden door and a large cellar. It contains a set of gold
+scales and a large hot forge in the middle of the shop. Strange and
+dank, kind of run down.
+
+General blacksmithery. Owns a magic greatsword The Longsword of Greatest
+Reach which is 9’ long but incredibly well-made and balanced.
+
+The Babbling Bandit
+^^^^^^^^^^^^^^^^^^^
+
+Owner Eva Quinton.
+
+Location: In the main street near the town gate. The street outside is
+covered in fallen leaves.
+
+Description: The tavern is a concrete simple building, with a white tile
+roof and a smooth stone floor. It contains an inviting hearth and very
+few tables and chairs.
+
+Serves: Grog Staff: Jocelyn Klein (female Human), Enialis Yaeldrin (male
+elf), Bart Serge (male Human)
 

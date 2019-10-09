@@ -13,7 +13,6 @@ Welcome to Hot Mess of Brie Acquisitions Incorporated Bible
    docs/adventurers
    docs/world
    docs/notable_cities
-   docs/notable_locations
    docs/other_locations
    docs/religions_and_organizations
    docs/nobility.rst
