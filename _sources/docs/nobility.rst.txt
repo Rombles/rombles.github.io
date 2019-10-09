@@ -1,0 +1,31 @@
+Nobility Ranking
+################
+
+1)  **Emperor/Empress** - Ruler of a large country that devoured many
+    kingdoms
+2)  **King/Queen** - Ruler of a kingdom, can be large or not.
+3)  **Duke/Duchess** - Ruler of a large region of an Empire or kingdom.
+    Former royalty can be dukes.
+4)  **Prince/Princess** - Heirs of the first 2 categories, sometimes
+    3rd, too. No actual power, only potential, unless the country in
+    question is a Princedom, in which case equates to King/Duke.
+5)  **Marquess/Marquise** - Owner and governor of border regions. Have
+    roughly equal official power as a Count, but more autonomy due to
+    distance from capital and larger military (to defend from other
+    countries).
+6)  **Earl or Count/Countess** - Owner and governor of a piece of land.
+7)  **Viscount/Viscountess** - Mostly honorary title, sometimes owning
+    the land, but wielding less actual power. It's like Count-wannabe,
+    literally vice-count.
+8)  **Baron/Baroness** - Owner or governor of a small region. Not
+    terribly different from Count, but might have less land or
+    limitations on hereditary transfer of land ownership. Sometimes not
+    even the owner of the land, but only the ruler/governor.
+9)  **Baronet**
+
+    1) a knight who has hereditary rights (his children would get the
+       title automatically);
+    2) an heir to a Baron/Baroness. Usually doesn't own/govern the land.
+
+10) **Knight** - Non-hereditary title for a person recognized as
+    nobility by the King/Duke.

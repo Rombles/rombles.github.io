@@ -1,0 +1,25 @@
+Notable Cities
+#############
+
+Kassoon
+*******
+
++------------------------+---------------+
+| Approximate Population | 240,000       |
++------------------------+---------------+
+| Approximate Wealth     | 22,074,000gp  |
++------------------------+---------------+
+| Demographic            | Human:    58% |
+|                        |               |
+|                        | Gnome:    13% |
+|                        |               |
+|                        | Half-Orc: 2%  |
+|                        |               |
+|                        | Dwarf: 4%     |
+|                        |               |
+|                        | Half-Elf: 1%  |
++------------------------+---------------+
+
+ Kassoon is a small city in the country of The Principality of Mingia and is mostly a tangle of alleyways and row houses, and is known for its godlessness. Their late ruler Angus Westwood was on his deathbed for quite some time until passing away under suspicious circumstances. Presently it is ruled by Fergus Westwood, son of Angus. The races live together (mostly) in harmony.
+
+

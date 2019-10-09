@@ -1,0 +1,61 @@
+World
+#####
+
+Continents
+**********
+
+Azarafel
+========
+
+Countries
+---------
+
+Hogurland
+^^^^^^^^^
+
+Kingdom of Fjelisia
+^^^^^^^^^^^^^^^^^^^
+
+Yemochasia
+^^^^^^^^^^
+
+Kingdom of Sisa
+^^^^^^^^^^^^^^^
+
+Badadatan Empire
+^^^^^^^^^^^^^^^^
+
+Principality of Uhala
+^^^^^^^^^^^^^^^^^^^^^
+
+Rendahil
+========
+
+Countries
+---------
+
+Nigtianese Empire
+^^^^^^^^^^^^^^^^^
+
+Duchy of Shaliusa
+^^^^^^^^^^^^^^^^^
+
+The Principality of Mingia
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The Principality of Mingia is a small coastal country on the continent
+of Rendahil.
+
+Ruling Party - A single prince **Fergus Westwood**
+
+Chigsania
+^^^^^^^^^
+
+Watin
+^^^^^
+
+Hercyme
+^^^^^^^
+
+Tsardom of Nichia
+^^^^^^^^^^^^^^^^^
