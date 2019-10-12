@@ -5,8 +5,8 @@ Havel’s Crossing
 ****************
 
 Large tavern/stable/inn as a rest stop location for large carriage
-passways. Was ransacked by Calador and the rest of his ghoulish party
-after being overcome by The Bone of Doresain.
+passways. Was ransacked by `Calador <appendix_b.html#calador>`__ and the rest of his ghoulish party
+after being overcome by `The Bone of Doresain. <items.html#the-bone-of-doresain>`__
 
 The Fantasy Costco
 ******************

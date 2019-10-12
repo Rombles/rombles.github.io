@@ -50,7 +50,7 @@ manager), Tulli, Kris Dicant, Shomu
 The Brass Raven
 ^^^^^^^^^^^^^^^
 
-Owner: Malek the Bookie
+Owner: Melrak the Bookie
 
 Location: Downtown
 
@@ -75,7 +75,7 @@ hints as to what might be lurking around the tombs therein.
 Herb’s Garden
 ^^^^^^^^^^^^^
 
-Owner: Ella Bafflestone, Female Gnome
+Owner: `Ella Bafflestone, <appendix_b.html#ella-bafflestone>`__ Female Gnome
 
 Location: In the main street near the town gate. The street outside is
 next to a large public square.
@@ -83,7 +83,7 @@ next to a large public square.
 Description: The alchemist store is a stone-walled two-storey building,
 with a heather-thatched roof and simple furniture
 
-Staff: Oppah Timbers (female gnome), Glim Boondiggles (male gnome),
+Staff: Oppah Timbers (female gnome), `Roris Keuras <appendix_b.html#roris-keuras>`__ (male gnome),
 Shamil Maekkelferce (female gnome), Breena Pilwicken (female gnome)
 
 Little apothecary’s shop run by several enterprising Gnomes.
