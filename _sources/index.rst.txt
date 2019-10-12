@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to Hot Mess of Brie Acquisitions Incorporated Bible
-================================
+===========================================================
 
 .. toctree::
    :maxdepth: 2

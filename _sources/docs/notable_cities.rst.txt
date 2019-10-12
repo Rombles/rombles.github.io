@@ -20,7 +20,14 @@ Kassoon
 |                        | Half-Elf: 1%  |
 +------------------------+---------------+
 
- Kassoon is a small city in the country of The Principality of Mingia and is mostly a tangle of alleyways and row houses, and is known for its godlessness. Their late ruler Angus Westwood was on his deathbed for quite some time until passing away under suspicious circumstances. Presently it is ruled by Fergus Westwood, son of Angus. The races live together (mostly) in harmony.
+Kassoon is a small city in the country of 
+`The Principality of Mingia <world.html#the-principality-of-mingia>`__ 
+and is mostly a tangle of alleyways and row houses, and is known for its godlessness. 
+Their late ruler `Angus Westwood <appendix_b/A.html#angus-westwood>`__ 
+was on his deathbed for quite some time until 
+passing away under suspicious circumstances. Presently it is ruled by 
+`Fergus Westwood, <appendix_b/F.html#fergus-westwood>`__
+son of `Angus. <appendix_b/A.html#angus-westwood>`__ The races live together (mostly) in harmony.
 
 Notable Locations
 -----------------
@@ -28,7 +35,7 @@ Notable Locations
 A Florist’s Delight
 ^^^^^^^^^^^^^^^^^^^
 
-Owner: Kirnih Oceantalon
+Owner: `Kirnih Oceantalon <appendix_b/K.html#kirnih-oceantalon>`__
 
 Location: Town Center
 
@@ -38,19 +45,21 @@ tables in front displaying vibrant flowers.
 Boxwood Clovers
 ^^^^^^^^^^^^^^^
 
-Owner: Tifter Valeure, Male Elf
+Former Owner: `Tifter Valeure <appendix_b/T.html#tifter-and-tiffany-valeure>`__, Male Elf
+
+Present Owner: `Beyhan Enwynn <appendix_b/B.html#beyhan-enwynn>`__, Male Elf
 
 Location: Town Center
 
 Description: Flower and apothecary’s shop.
 
-Employees: Guard Jafari, Guard Oktem, Deliverer Jare, Beyhan, (the store
-manager), Tulli, Kris Dicant, Shomu
+Employees: Guard Jafari, Guard Oktem, Deliverer Jare, (the store
+manager), Tulli, `Kris Dicant <appendix_b/K.html#krissa-dicant>`__, Shomu
 
 The Brass Raven
 ^^^^^^^^^^^^^^^
 
-Owner: Melrak the Bookie
+Owner: `Melrak the Bookie <appendix_b/M.html#melrak-the-bookie>`__
 
 Location: Downtown
 
@@ -59,7 +68,7 @@ Description: Casino and gambling hall
 The Wizard’s Sleeve
 ^^^^^^^^^^^^^^^^^^^
 
-Owner: Halimath Ilphekiir, Male Elf
+Owner: `Halimath Ilphekiir <appendix_b/H.html#halimath-ilphelkiir>`__, Male Elf
 
 Location: Down the street from the Inn.
 
@@ -75,7 +84,7 @@ hints as to what might be lurking around the tombs therein.
 Herb’s Garden
 ^^^^^^^^^^^^^
 
-Owner: `Ella Bafflestone, <appendix_b.html#ella-bafflestone>`__ Female Gnome
+Owner: `Ella Bafflestone, <appendix_b/E.html#ella-bafflestone>`__ Female Gnome
 
 Location: In the main street near the town gate. The street outside is
 next to a large public square.
@@ -83,7 +92,7 @@ next to a large public square.
 Description: The alchemist store is a stone-walled two-storey building,
 with a heather-thatched roof and simple furniture
 
-Staff: Oppah Timbers (female gnome), `Roris Keuras <appendix_b.html#roris-keuras>`__ (male gnome),
+Staff: Oppah Timbers (female gnome), `Roris Keuras <appendix_b/R.html#roris-keuras>`__ (male gnome),
 Shamil Maekkelferce (female gnome), Breena Pilwicken (female gnome)
 
 Little apothecary’s shop run by several enterprising Gnomes.
@@ -119,7 +128,7 @@ Herb’s Garden’s Potions and Other Convenient Items
 The Mare’s Whinney
 ^^^^^^^^^^^^^^^^^^
 
-Owner: Gaaki Hildenman, Female Half-Orc
+Owner: `Gaaki Hildenman <appendix_b/G.html#gaaki-hildenman>`__, Female Half-Orc
 
 Location: In the middle of the slums. The street outside has a fortune
 teller.
@@ -129,13 +138,14 @@ reinforced wooden door and a large cellar. It contains a set of gold
 scales and a large hot forge in the middle of the shop. Strange and
 dank, kind of run down.
 
-General blacksmithery. Owns a magic greatsword The Longsword of Greatest
-Reach which is 9’ long but incredibly well-made and balanced.
+General blacksmithery. Owns a magic greatsword 
+`The Longsword of Greatest Reach <items.html#the-longsword-of-greatest-reach>`__
+which is 9’ long but incredibly well-made and balanced.
 
 The Babbling Bandit
 ^^^^^^^^^^^^^^^^^^^
 
-Owner Eva Quinton.
+Owner: `Eva Quinton <appendix_b/E.html#eva-quinton>`__
 
 Location: In the main street near the town gate. The street outside is
 covered in fallen leaves.

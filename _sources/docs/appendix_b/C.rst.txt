@@ -1,0 +1,38 @@
+Calador
+~~~~~~~
+
+Once a treasure-hunting High Elf, Calador is the head administrator of
+the guild of Hot Mess of Brie. He performs the day-to-day tasks managing
+the day-to-day operations of the guild headquarters as well as any
+administrative task requiring the cooperation of the guild with the
+headquarters of Acquisitions Incorporated. 
+
+Personal Life
+^^^^^^^^^^^^^
+
+Calador went to wizarding school in an attempt to gain favor from his
+family, much like his oldest brother `Faen. <F.html#grand-vizer-faen>`__
+
+Adventurer’s Backstory
+^^^^^^^^^^^^^^^^^^^^^^
+
+Calador found The Bone of Dorsain - a legendary magical artifact used to
+worship the Ouroboros Snake in the cult temple of life, death, and
+rebirth The Ouroboros Temple. He met the adventuring party when Winsom
+Landy hired the adventurers to help escort a magical artifact back to
+civilization for identification and eventual resell.
+
+`The Bone of Doresain, <../items.html#the-bone-of-doresain>`__ however, was full of incredibly potent necrotic
+energy and eventually drove Calador mad, causing him to crave humanoid
+flesh. Throughout the adventure her turned all of his compatriots into
+ghouls under his control.
+
+After being defeated by The Hot Mess of Brie team, he was brought back
+from the beyond as a spectre by `Jim Darkmagic <J.html#jim-darkmagic>`__ (as a kind of cruel joke
+or otherwise) to perform as the Guild Administrator for The Hot Mess of
+Brie.
+
+He is not well known to do his administrative duties effectively. He
+also refers to all those living inside `The Ouroboros Temple
+(Headquarters) <../other_locations.html#the-ouroboros-temple-original>`__ as trespassers.
+

@@ -4,16 +4,17 @@ Important Items
 The Bone of Doresain
 ********************
 
-Recovered from the ruins surrounding The Ouroboros Temple (Original).
+Recovered from the ruins surrounding `The Ouroboros Temple (Original).  <other_locations.html#the-ouroboros-temple-original>`__
 This effigy was once the recipient of a great deal of dark magic worship
 from long-dead Ouroboros Cult.
 
 The Longsword of Greatest Reach
 *******************************
 
-Sold at The Mare’s Whinney. 9 foot long Greatsword with incredible
-balance that costs an inordinate amount of gold. Very much the envy of
-one Eberhard who cannot wait to get his hands on it.
+Sold at `The Mare’s Whinney. <notable_cities.html#the-mares-whinney>`__ 
+A 9 foot long Greatsword with incredible balance that costs an inordinate 
+amount of gold. Very much the envy of one `Eberhard <adventurers.html#eberhard>`__ 
+who cannot wait to get his hands on it.
 
 Ring of Frost
 *************

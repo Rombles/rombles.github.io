@@ -5,7 +5,7 @@ Havel’s Crossing
 ****************
 
 Large tavern/stable/inn as a rest stop location for large carriage
-passways. Was ransacked by `Calador <appendix_b.html#calador>`__ and the rest of his ghoulish party
+passways. Was ransacked by `Calador <appendix_b/C.html#calador>`__ and the rest of his ghoulish party
 after being overcome by `The Bone of Doresain. <items.html#the-bone-of-doresain>`__
 
 The Fantasy Costco
@@ -17,15 +17,20 @@ shop for all adventurers that have a membership.
 The Ouroboros Temple (Original)
 *******************************
 
-Source location of The Ouroboros Cult. It was here that Calador found
-The Bone of Doresain and was overcome by its inherent evil energy.
+Source location of 
+`The Ouroboros Cult <religions_and_organizations.html#ouroboros-worshippers-cult>`__.
+It was here that `Calador <appendix_b/C.html#calador>`__ found 
+`The Bone of Doresain <items.html#the-bone-of-doresain>`__ and was overcome by its inherent evil energy.
 
 The Ouroboros Temple (Headquarters)
 ***********************************
 
-Headquarters to the Acquisitions Incorporated guild Hot Mess of Brie.
+Headquarters to the Acquisitions Incorporated franchise 
+`Hot Mess of Brie <franchises.html#hot-mess-of-brie>`__.
 Was once the temple of a doomsday cult, but was moved by magical means
-by Jim Darkmagic to the city of Kasoon in the Principality of Mingia.
+by `Jim Darkmagic <appendix_b/J.html#jim-darkmagic>`__ to the city of 
+`Kasoon <notable_cities.html#kassoon>`__ in the 
+`Principality of Mingia <world.html#the-principality-of-mingia>`__.
 
 Oddly, there is a magical quirk in this building that causes each
 staircase to appear to have exactly one more step either going up or
@@ -34,7 +39,8 @@ down the stairs.
 Kernwith Keep
 *************
 
-Home of the Flaming Fist Mercenary camp
+Home of the 
+`Flaming Fist Mercenaries' <religions_and_organizations.html#flaming-fist-mercenaries>`__ camp
 
 The Tombs of the Menhirs
 ************************
@@ -47,37 +53,42 @@ whatever they could to sate their greed. Eventually this lead to their
 downfall, causing them to rot in their graves with powerful protectors
 to keep their wealth with them.
 
-**Gimish Cogsnoggin** knows tons of information about this tomb site,
-but he just needs some prodding.
+`Gimish Cogsnoggin <appendix_b/G.html#gimish-coggsnoggin>`__ knows tons of 
+information about this tomb site, but he just needed some prodding.
 
 The Tomb of the Dawn Prince
 ===========================
 
 
 It is in this tomb that the Adventurers met a nest of stirges and one
-angry Carrion Crawler, hell-bent on snapping Eberhard and Charlie the
-Mastiff’s limbs.
+angry Carrion Crawler, hell-bent on snapping 
+`Eberhard <adventurers.html#eberhard>`__ and 
+`Charlie the Mastiff’s <adventurers.html#charlie>`__ limbs.
 
 The Tomb of the Meridian Lord
 =============================
 
 
-It was here the party rescued Baroness Persephone Ashbridge from the
-clutches of a ruthless poltergeist. Had Kadar not purchased the Wormwood
+It was here the party rescued 
+`Baroness Persephone Ashbridge <appendix_b/P.html#persephone-ashbridge-baroness>`__ from the
+clutches of a ruthless poltergeist. Had 
+`Kadar <adventurers.html#kadar>`__ not purchased the Wormwood
 Petals, the party may have been toast!
 
 The Tomb of the Princess of Dusk
 ================================
 
 It was here in this tomb that the adventurer’s encountered Wights and
-dangerous illusion magic - during which Eberhard found himself dancing
-with rats. In addition to these perils, the characters were introduced
-to the religion of The Idiot God.
+dangerous illusion magic - during which `Eberhard <adventurers.html#eberhard>`__ 
+found himself dancing with rats. In addition to these perils, the characters 
+were introduced to the religion of 
+`The Idiot God <religions_and_organizations.html#realm-of-the-idiot-god>`__.
 
 The Tomb of the King of Midnight
 ================================
 
 Here the adventurers met all kinds of gross nasties - Gelatinous Ooze,
-Mimics, and even a Frat Spectator. The gang recovered all kinds of fat
+Mimics, and even a 
+`Frat Spectator <appendix_b/F.html#frat-spectator>`__. The gang recovered all kinds of fat
 treasure and even managed to take some home.
 
