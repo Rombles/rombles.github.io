@@ -1,0 +1,90 @@
+Deepfathom
+##########
+
++------------------------+------------+
+| Approximate Population | 800        |
++------------------------+------------+
+| Approximate Wealth     | 250,000    |
++------------------------+------------+
+| Demographic            | Dwarf: 99% |
++------------------------+------------+
+
+
+Located some eighty miles from Kassoon, the mining operation town known as
+Deepfathom has brought both tremendous profit and tremendous danger to 
+`The Principality of Mingia </docs/world.html#the-principality-of-mingia>`__.
+
+Home of 
+`The Church of the High Sun </docs/religions_and_organizations.html#the-church-of-the-high-sun>`__.
+
+Deepfathom Mines
+================
+
+Owner: `Daronith Oakenthane </docs/appendix_b/D.html#daronith-oakenthane>`__
+
+
+
+The Deepfathom Mine is the only known source of a mysterious reagent known as
+voidwater, which commands a high price from alchemists all across the land. But
+though accidents have always been a problem at the mine, a rash of recent deaths
+have seen miners burned alive or torn apart by unknown creatures -- and are
+coming on the heels of appearance of violent cultists in the small community that
+serves the mine.
+
+Accidents
+---------
+
+* Dormeck Kraghead, Deepwater Mine's lead digger, was mysteriously incinerated
+  during an overtime shift in order to make deadlines.
+* Day crews have found over thirty miners have been found torn to shreds that
+  worked the night crews.
+
+Controversy
+-----------
+
+`Daronith Oakenthane </docs/appendix_b/D.html#daronith-oakenthane>`__ has taken a
+lot of grief from local towns and officials due to her unwillingness to stop
+mining to clear the mine of unknown monsters. Instead of hiring additional
+guards to help protect the miners from the dangers, 
+`Daronith </docs/appendix_b/D.html#daronith-oakenthane>`__ instead
+started paying "danger wages" to entice workers to ignore the dangers and
+instead pay attention to their own greed.
+
+`The Church of the High Sun </docs/religions_and_organizations.html#the-church-of-the-high-sun>`__
+has caused some issues for the Deepfathom Mine, denouncing it as a place of
+evil and the source of dark power. This caused tensions to run high in the 
+city when miners began converting to the faith in droves after the accidents
+at the mine started. After the mine was no longer able to sustain itself due 
+to lack of workers, a large brass cap was constructed and placed over the top 
+of the mine to seal away the unknown threats in its depths.
+
+Notable Locations
+=================
+
+The Church of the High Sun
+--------------------------
+
+High Priest: `Aleith Skyborn </docs/appendix_b/A.html#aleith-skyborn>`__, Male Dwarf
+
+Description: A small temple created from large works of stone that have been
+thoroughly worn down by the elements. The form and function of this building is
+quite stark - nothing adorns the outside of this building but bright, burning
+torches in braziers of stone at every corner.
+
+
+Falling Rod Tavern
+------------------
+
+Owner: `Gendra Jade </docs/appendix_b/G.html#gendra-jade>`__, Female Dwarf
+
+Location: Center of Deepfathom
+
+Description: Seedy rough tavern, massive cracked iron rod, rickety upper
+balcony.
+
+    *The raucous noise of this mining tavern's regular crowd fills its rickety
+    two-story interior. Miners peer over clay cups of thick beer to assess any
+    strangers who enter the establishment. A uge iron rod runs from floor to
+    ceiling in the center of the tavern, a deep crack splitting it halfway from
+    the bottom. The second-story balcony leans precariously over the lower
+    floor, its bent timbers held up with splintered wooden posts.*

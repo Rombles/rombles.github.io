@@ -1,0 +1,4 @@
+Extreme Teen Bible
+##################
+
+.. image:: /items/images/extreme-teen-bible.png

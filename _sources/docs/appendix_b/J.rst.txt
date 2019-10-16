@@ -2,9 +2,9 @@ Jacob Ashbridge, Baron
 ~~~~~~~~~~~~~~~~~~~~~~
 
 A garish baron with an exceedingly large plantation on the outskirts of
-`Kassoon. <../notable_cities.html#kassoon>`__ Recently he’s decided to spend his fortune ensuring that he and
+`Kassoon. </docs/notable_cities/kassoon.html>`__ Recently he’s decided to spend his fortune ensuring that he and
 his wife `Persephone Ashbridge <P.html#persephone-ashbridge-baroness>`__ live throughout eternity resting in wild
-and difficult locations. Having sought out `The Tomb of the Meridian Lord, <../other_locations.html#the-tomb-of-the-meridian-lord>`__ 
+and difficult locations. Having sought out `The Tomb of the Meridian Lord, </docs/other_locations.html#the-tomb-of-the-meridian-lord>`__ 
 he and his wife `Persephone <P.html#persephone-ashbridge-baroness>`__ have bitten off more than they can chew
 when a deadly poltergeist and a devious carrion crawler halt construction.
 
@@ -14,7 +14,7 @@ he told the players that he’s always got work for reliable employees.
 Jeremy Snoot
 ~~~~~~~~~~~~
 
-The most easily intimidated customs official in the city of Kassoon,
+The most easily intimidated customs official in the city of `Kassoon </docs/notable_cities/kassoon.html>`__,
 From blueprints of government buildings to shipping manifests, he’s your
 halfling.
 
@@ -52,29 +52,29 @@ wizard, known for using the magic at-will to momentarily inconvenience
 other during regular conversations. Additionally Darkmagic has been
 known to perform powerful ritualistic magic. In the beginning of the
 Incorporation of Hot Mess of Brie, he and a few other mages teleported
-the entire Ouroboros Temple to the city of `Kassoon <../notable_cities.html#kassoon>`__ to make it more
+the entire Ouroboros Temple to the city of `Kassoon </docs/notable_cities/kassoon.html>`__ to make it more
 readily accessible to a town.
 
 Jim Darkmagic publicly resents the influence that `The Grand Vizer Faen <F.html#grand-vizer-faen>`__
 has on all local politics (and thus AI)
 
-.. image:: ../../monsters/images/jim_darkmagic.png
+/docs image:: /monsters/images/jim_darkmagic.png
    :scale: 50 %
 
 Jolruzai Runzehr
 ~~~~~~~~~~~~~~~~
 
-Overseer of plant sales and assassinations merchant lord in `Kassoon. <../notable_cities.html#kassoon>`__
+Overseer of plant sales and assassinations merchant lord in `Kassoon. </docs/notable_cities/kassoon.html>`__
 
 Informed by `Kirnih Oceantalon <K.html#kirnih-oceantalon>`__, 
-owner of `A Florist’s Delight, <../notable_cities.html#a-florists-delight>`__ 
-that `Boxwood Clovers <../notable_cities.html#boxwood-clovers>`__ was a new, 
+owner of `A Florist’s Delight, </docs/notable_cities.html#a-florists-delight>`__ 
+that `Boxwood Clovers </docs/notable_cities.html#boxwood-clovers>`__ was a new, 
 unregulated business on the scene. In response, she
 tightened import regulations and sent agents undercover to threaten
 `Tifter <T.html#tifter-and-tiffany-valeure>`__ into submitting 
 to her commercial control. When nothing changed,
 it was `Zhanti <Z.html#zhanti>`__ who convinced her to do nothing. In exchange for tax-free
-armour for her assassins, Jolruzai would no longer interfere with `Boxwood Clovers. <../notable_cities.html#boxwood-clovers>`__
+armour for her assassins, Jolruzai would no longer interfere with `Boxwood Clovers. </docs/notable_cities.html#boxwood-clovers>`__
 
 Jolruzai grew more frustrated that a new business (that she didn’t
 control) was hoarding a big proportion of the plant market’s money. With

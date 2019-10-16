@@ -1,0 +1,4 @@
+Smash Potatoes
+##############
+
+.. image:: /items/images/smash-potatoes.png

@@ -1,8 +1,43 @@
+Aleith Skyborn
+~~~~~~~~~~~~~~
+
+A young and charismatic priest of
+`The Church of the High Sun </docs/notable_cities/deepfathom.html#the-church-of-the-high-sun>`__.
+Aleith leads a fervent and rapidly growing congregation composed mostly of mine
+workers and their families. He is baby-faced, looking a little more than a
+teenager with his piercing dark eyes and a small smile always on his lips. He
+tries to convince the characters that some evil power dwells in the mine, and is
+both the source of the recent deaths and the force drawing cultists to the
+area.
+
+----
+
+    *Characters need to discover that Aleith is right about both those
+    things--because he's the one seeking to control that evil power. In the end,
+    his goal is to shut down the mine so that he can claim the site for the
+    Cult of the Black Sun.*
+
+----
+
+Head Priest of 
+`The Church of the High Sun </docs/notable_cities/deepfathom.html#the-church-of-the-high-sun>`__
+that is hell-bent on shutting down the 
+`Deepfathom Mines </docs/notable_cities/deepfathom.html#deepfathom-mines>`__.
+
+It is revealed throughout the episode that Aleith is actually a priest of
+`The Cult of the Black Sun </docs/religions_and_organizations.html#the-cult-of-the-black-sun>`__,
+using 
+`The Church of the High Sun </docs/notable_cities/deepfathom.html#the-church-of-the-high-sun>`__
+as a front for the cult's activities and to seek out those who seek the futility
+of worshipping the light. He leads his cultists from an ancient, massive
+cathedral to the Black Sun, buried beneath the site of his much more humble
+church.
+
 Angus Westwood
 ~~~~~~~~~~~~~~
 
 Recently decesed King of
-`The Principality of Mingia. <../world.html#the-principality-of-mingia>`__
+`The Principality of Mingia. </docs/world.html#the-principality-of-mingia>`__
 
 The circumstances surrounding his death were suspicious, but no one is able or
 willing to investigate the sitting prince 

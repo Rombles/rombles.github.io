@@ -1,0 +1,4 @@
+Modified Wand of True Polymorph
+###############################
+
+.. image:: /items/images/modified-wand-of-true-polymorph.png

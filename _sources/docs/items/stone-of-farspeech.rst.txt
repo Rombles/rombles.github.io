@@ -1,0 +1,4 @@
+Stone of Farspeech
+##################
+
+.. image:: /items/images/stone-of-farspeech.png

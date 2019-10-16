@@ -4,7 +4,7 @@ Acquisitions Incorporated Franchises
 Hot Mess of Brie
 ****************
 
-A pretty new adventurer’s guild headquartered in the city of `Kassoon <notable_cities.html#kassoon>`__
+A pretty new adventurer’s guild headquartered in the city of `Kassoon <notable_cities/kassoon.html>`__
 in an old rebirth cult’s temple. A very up-and-coming lot, this group of
 adventurers are quickly making a name for themselves in the AI
 community.

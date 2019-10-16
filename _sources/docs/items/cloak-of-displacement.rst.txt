@@ -1,0 +1,4 @@
+Cloak of Displacement
+#####################
+
+.. image:: /items/images/cloak-of-displacement.png

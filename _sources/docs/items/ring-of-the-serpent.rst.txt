@@ -1,0 +1,4 @@
+Ring of the Serpent
+###################
+
+.. image:: /items/images/ring-of-the-serpent.png

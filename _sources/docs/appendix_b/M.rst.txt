@@ -1,5 +1,5 @@
 Melrak the Bookie
 ~~~~~~~~~~~~~~~~~
 
-A charismatic black dwarf and chief bookkeeper of the `The Brass Raven, <../notable_cities.html#the-brass-raven>`__
+A charismatic black dwarf and chief bookkeeper of the `The Brass Raven, </docs/notable_cities.html#the-brass-raven>`__
 with a loud personality.

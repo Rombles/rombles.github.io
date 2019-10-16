@@ -29,8 +29,8 @@ Notable Achievements
    `Grand Vizer Faen <appendix_b/F.html#grand-vizer-faen>`__ for the long-term benefit of Acquisitions
    Incorporated and `Hot Mess of Brie.  <franchises.html#hot-mess-of-brie>`__
 
-Halaena and Charlie
-*******************
+Halaena Enrona and Charlie
+**************************
 
 Halaena is a wood elf ranger (hunter) with a `mastiff pet.  <adventurers.html#charlie>`__
 
@@ -53,7 +53,7 @@ Charlie
 =======
 
 Charlie was found by himself outside of `The Babbling Bandit <notable_cities.html#the-babbling-bandit>`__
-in `Kassoon. <notable_cities.html#kassoon>`__
+in `Kassoon. <notable_cities/kassoon.html>`__
 After searching for the rightful owner, he happily followed Halaena home
 and has been her sidekick ever since.
 

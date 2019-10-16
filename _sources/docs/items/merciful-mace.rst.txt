@@ -1,0 +1,4 @@
+Merciful Mace
+#############
+
+.. image:: /items/images/merciful-mace.png

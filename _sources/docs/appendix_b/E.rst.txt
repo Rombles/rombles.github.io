@@ -1,10 +1,10 @@
 Ella Bafflestone
 ~~~~~~~~~~~~~~~~
 
-**Owner** and operator of `Herb's Garden. <../notable_cities.html#herbs-garden>`__
+**Owner** and operator of `Herb's Garden. </docs/notable_cities.html#herbs-garden>`__
 
 Eva Quinton
 ~~~~~~~~~~~
 
-**Owner** and operator of `The Babbling Bandit. <../notable_cities.html#the-babbling-bandit>`__
+**Owner** and operator of `The Babbling Bandit. </docs/notable_cities.html#the-babbling-bandit>`__
 

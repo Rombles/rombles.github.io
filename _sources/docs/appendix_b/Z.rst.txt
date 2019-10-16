@@ -2,19 +2,19 @@ Zhanti
 ~~~~~~
 
 Merchant lord. Overseer of armour sales and a member of both the secret
-`Ytepka Society <../religions_and_organizations.html#ytepka-society>`__ and 
-`Daermon N'a'shezbaernon, <../religions_and_organizations.html#daermon-n-a-shezbaernon>`__
-in `Kassoon. <../notable_cities.html#kassoon>`__
+`Ytepka Society </docs/religions_and_organizations.html#ytepka-society>`__ and 
+`Daermon N'a'shezbaernon, </docs/religions_and_organizations.html#daermon-n-a-shezbaernon>`__
+in `Kassoon. </docs/notable_cities/kassoon.html>`__
 
 Principal motivation as a merchant lord after money is restoring moral
 order through the peninsula’s secret 
-`Ytepka Society. <../religions_and_organizations.html#ytepka-society>`__ 
+`Ytepka Society. </docs/religions_and_organizations.html#ytepka-society>`__ 
 She’s one of the society’s contacts with 
-`Daermon N'a'shezbaernon, <../religions_and_organizations.html#daermon-n-a-shezbaernon>`__ 
+`Daermon N'a'shezbaernon, </docs/religions_and_organizations.html#daermon-n-a-shezbaernon>`__ 
 and has thus been working with `Kris Dicant <K.html#krissa-dicant>`__ to 
 establish trust before weeding her way in further.
 
-Zhanti protected `Boxwood Clovers <../notable_cities.html#boxwood-clovers>`__ 
+Zhanti protected `Boxwood Clovers </docs/notable_cities.html#boxwood-clovers>`__ 
 from `Jolruzai <J.html#jolruzai-runzehr>`__ by offering a favorable
 trade in exchange for no longer looking to extract money from the
 business. Zhanti had found the taste for money again and began to demand

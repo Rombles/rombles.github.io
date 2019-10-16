@@ -10,6 +10,9 @@ Appendix B: Characters
 `C <appendix_b/C.html>`__
 =========================
 
+`D <appendix_b/D.html>`__
+=========================
+
 `E <appendix_b/E.html>`__
 =========================
 
@@ -38,6 +41,9 @@ Appendix B: Characters
 =========================
 
 `T <appendix_b/T.html>`__
+=========================
+
+`V <appendix_b/V.html>`__
 =========================
 
 `W <appendix_b/W.html>`__

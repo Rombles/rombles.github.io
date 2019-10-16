@@ -1,0 +1,4 @@
+Even Handed Cloak of Invisibility
+#################################
+
+.. image:: /items/images/even-handed-cloak-of-invisibility.png

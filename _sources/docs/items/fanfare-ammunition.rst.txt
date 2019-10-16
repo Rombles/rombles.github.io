@@ -1,0 +1,4 @@
+Fanfare Ammunition
+##################
+
+.. image:: /items/images/fanfare-ammunition.png

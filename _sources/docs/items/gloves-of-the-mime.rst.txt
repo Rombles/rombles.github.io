@@ -1,0 +1,4 @@
+Gloves of the Mime
+##################
+
+.. image:: /items/images/gloves-of-the-mime.png

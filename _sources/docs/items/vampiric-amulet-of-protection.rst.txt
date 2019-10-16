@@ -1,0 +1,4 @@
+Vampiric Amulet of Protection
+#############################
+
+.. image:: /items/images/vampiric-amulet-of-protection.png

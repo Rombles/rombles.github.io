@@ -1,0 +1,4 @@
+Lucky Dice
+##########
+
+.. image:: /items/images/lucky-dice.png

@@ -1,15 +1,22 @@
 Gaaki Hildenman
 ~~~~~~~~~~~~~~~
 
-**Owner** and operator of `The Mare’s Whinney, <../notable_cities.html#the-mares-whinney>`__ Gaaki is a female half-orc.
+**Owner** and operator of `The Mare’s Whinney, </docs/notable_cities.html#the-mares-whinney>`__ Gaaki is a female half-orc.
 
 Garfield, the Deals Warlock
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The assigned deals warlock for Hot Mess of Brie. Seemingly every time
-the Adventurers go into `The Fantasy Costco <../other_locations.html#the-fantasy-costco>`__ it seems like they’re
+the Adventurers go into `The Fantasy Costco </docs/other_locations.html#the-fantasy-costco>`__ it seems like they’re
 immediately tracked down by this guy. Overly cheerful and pretty
 whimsical, Garfield is happy to make a deal at whatever the cost.
+
+Gendra Jade
+~~~~~~~~~~~
+
+The owner of `The Falling Rod </docs/notable_cities/deepfathom.html>`__, Gendra was
+once a miner herself. The she took a rig to the knee and her amputated leg
+pushed her into a different line of work.
 
 Gimish Coggsnoggin
 ~~~~~~~~~~~~~~~~~~
@@ -20,6 +27,11 @@ contract (that he usually gets worked over on as he does not care to
 read the remainder of the documentation.
 
 Does not care who receives the information so long as he’s paid for it.
+
+Glenn, the Deals Warlock
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Replacement for `Garfield, the Deals Warlock <#garfield-the-deals-warlock>`__ after his mysterious disappearance.
 
 Graz Stonebreaker
 ~~~~~~~~~~~~~~~~~

@@ -1,0 +1,4 @@
+Tablecloth of Setting
+#####################
+
+.. image:: /items/images/tablecloth-of-setting.png

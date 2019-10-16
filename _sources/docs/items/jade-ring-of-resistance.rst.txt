@@ -1,0 +1,4 @@
+Jade Ring of Resistance
+#######################
+
+.. image:: /items/images/jade-ring-of-resistance.png

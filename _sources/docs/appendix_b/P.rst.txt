@@ -1,3 +1,14 @@
+Paulson Oakenthane
+~~~~~~~~~~~~~~~~~~
+
+`Daronith's <D.html#daronith-oakenthane>`__ brother died in 
+`Deepfathom Mines </docs/notable_cities/deepfathom.html#deepfathom-mines>`__
+two months earlier, when an accident caused the mine's drilling rig to crash
+down and seal the entrance shaft. His body was never found, and unknown to
+anyone else, that months long exposure to voidwater has caused him to rise as a
+ghast that now lurks in the caverns of the mine.
+
+
 Perry Ribald
 ~~~~~~~~~~~~
 
@@ -13,7 +24,7 @@ Persephone is a shrewd and wicked woman.  She is a thoroughly distasteful
 woman interested only in her greed and momentary whims.
 
 After a harrowing attempt to clear out 
-`The Tomb of the Meridian Lord <../other_locations.html#the-tomb-of-the-meridian-lord>`__ 
+`The Tomb of the Meridian Lord </docs/other_locations.html#the-tomb-of-the-meridian-lord>`__ 
 for her own burial site, she was rescued by the Hot Mess of Brie adventurers
 and returned safely to her husband. She now appreciates what they have
 to offer skill-wise, if only barely.

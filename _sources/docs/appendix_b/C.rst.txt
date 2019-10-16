@@ -22,7 +22,7 @@ rebirth The Ouroboros Temple. He met the adventuring party when Winsom
 Landy hired the adventurers to help escort a magical artifact back to
 civilization for identification and eventual resell.
 
-`The Bone of Doresain, <../items.html#the-bone-of-doresain>`__ however, was full of incredibly potent necrotic
+`The Bone of Doresain, </docs/items.html#the-bone-of-doresain>`__ however, was full of incredibly potent necrotic
 energy and eventually drove Calador mad, causing him to crave humanoid
 flesh. Throughout the adventure her turned all of his compatriots into
 ghouls under his control.
@@ -34,5 +34,5 @@ Brie.
 
 He is not well known to do his administrative duties effectively. He
 also refers to all those living inside `The Ouroboros Temple
-(Headquarters) <../other_locations.html#the-ouroboros-temple-original>`__ as trespassers.
+(Headquarters) </docs/other_locations.html#the-ouroboros-temple-original>`__ as trespassers.
 

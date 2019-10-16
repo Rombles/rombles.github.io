@@ -1,0 +1,4 @@
+Singing Stein
+#############
+
+.. image:: /items/images/singing-stein.png

@@ -1,0 +1,4 @@
+Amulet of Hope
+##############
+
+.. image:: /items/images/amulet-of-hope.png

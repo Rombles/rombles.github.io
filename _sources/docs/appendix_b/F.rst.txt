@@ -2,18 +2,18 @@ Grand Vizer Faen
 ~~~~~~~~~~~~~~~~
 
 Powerful wizard and advisor to `Fergus Westwood, <F.html#fergus-westwood>`__ he poses a threat to the
-operations of Acquisitions Incorporated in the `Principality of Mingia. <../world.html#the-principality-of-mingia>`__
+operations of Acquisitions Incorporated in the `Principality of Mingia. </docs/world.html#the-principality-of-mingia>`__
 
 Fergus Westwood
 ~~~~~~~~~~~~~~~
 
-Prince of the `Principality of Mingia. <../world.html#the-principality-of-mingia>`__
+Prince of the `Principality of Mingia. </docs/world.html#the-principality-of-mingia>`__
 
 Frat Spectator
 ~~~~~~~~~~~~~~
 
-Encountered in the `Tomb of the King of Midnight, <../other_locations.html#the-tomb-of-the-king-of-midnight>`__ the Frat Spectator was
-found guarding a tomb after a hard night of drinking. Had `Eberhard <../adventurers.html#eberhard>`__ not
+Encountered in the `Tomb of the King of Midnight, </docs/other_locations.html#the-tomb-of-the-king-of-midnight>`__ the Frat Spectator was
+found guarding a tomb after a hard night of drinking. Had `Eberhard </docs/adventurers.html#eberhard>`__ not
 been able to communicate, this party may have been in for more than they
 could handle!
 

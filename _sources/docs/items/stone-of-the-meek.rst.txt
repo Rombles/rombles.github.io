@@ -1,0 +1,4 @@
+Stone of the Meek
+#################
+
+.. image:: /items/images/stone-of-the-meek.png

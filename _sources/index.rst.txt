@@ -20,6 +20,7 @@ Welcome to Hot Mess of Brie Acquisitions Incorporated Bible
    docs/items
    docs/appendix_a
    docs/appendix_b
+   docs/appendix_c
    docs/campaign_ideas
 
 Indices and tables

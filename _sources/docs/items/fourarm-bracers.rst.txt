@@ -1,0 +1,4 @@
+Fourarm Bracers
+###############
+
+.. image:: /items/images/fourarm-bracers.png

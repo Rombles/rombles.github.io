@@ -1,0 +1,4 @@
+Crown of Leadership
+###################
+
+.. image:: /items/images/crown-of-leadership.png

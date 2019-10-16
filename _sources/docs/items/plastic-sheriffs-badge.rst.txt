@@ -1,0 +1,4 @@
+Plastic Sheriff's Badge
+#######################
+
+.. image:: /items/images/plastic-sheriffs-badge.png

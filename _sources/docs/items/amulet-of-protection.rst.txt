@@ -1,0 +1,4 @@
+Amulet of Protection
+###################
+
+.. image:: /items/images/amulet-of-protection.png

@@ -1,0 +1,4 @@
+Glutton's Fork
+##############
+
+.. image:: /items/images/gluttons-fork.png

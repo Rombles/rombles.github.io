@@ -14,6 +14,64 @@ The Fantasy Costco
 The largest emporium of magic items, The Fantasy Costco is the one-stop
 shop for all adventurers that have a membership.
 
+Fantasy Costco Wares
+====================
+
++--------------------------------------------------------------------------------------------+---------+
+| Item                                                                                       | Prices  |
++--------------------------------------------------------------------------------------------+---------+
+| `All-or-Nothing Coin </docs/items/all-or-nothing-coin.html>`__                             |   700gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Amulet of Hope </docs/items/amulet-of-hope.html>`__                                       |   600gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Amulet of Protection </docs/items/amulet-of-protection.html>`__                           | 1,200gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Astral Shell </docs/items/astral-shell.html>`__                                           | 1,200gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Cloak of Displacement </docs/items/cloak-of-displacement.html>`__                         | 2,500gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Crown of Leadership </docs/items/crown-of-leadership.html>`__                             | 1,800gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Even Handed Cloak of Invisibility </docs/items/even-handed-cloak-of-invisibility.html>`__ |   800gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Extreme Teen Bible </docs/items/extreme-teen-bible.html>`__                               |   800gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Fanfare Ammunition </docs/items/fanfare-ammunition.html>`__                               |   800gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Fourarm Bracers </docs/items/fourarm-bracers.html>`__                                     | 3,500gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Gloves of the Mime </docs/items/gloves-of-the-mime.html>`__                               |   800gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Glutton's Fork </docs/items/gluttons-fork.html>`__                                        |   750gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Jade Ring of Resistance </docs/items/jade-ring-of-resistance.html>`__                     |   200gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Jar of Bees </docs/items/jar-of-bees.html>`__                                             |    50gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Lucky Dice </docs/items/lucky-dice.html>`__                                               |   400gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Merciful Mace </docs/items/merciful-mace.html>`__                                         |   550gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Modified Wand of True Polymorph </docs/items/modified-wand-of-true-polymorph.html>`__     | 1,200gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Nit Picker </docs/items/nit-picker.html>`__                                               |   900gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Plastic Sheriff's Badge </docs/items/plastic-sheriffs-badge.html>`__                      |   600gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Ring of Fast Draw </docs/items/ring-of-fast-draw.html>`__                                 |   650gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Ring of the Serpent </docs/items/ring-of-the-serpent.html>`__                             |   600gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Smash Potatoes </docs/items/smash-potatoes.html>`__                                       |   200gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Stone of Farspeech </docs/items/stone-of-farspeech.html>`__                               |   100gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Stone of the Meek </docs/items/stone-of-the-meek.html>`__                                 | 1,000gp |
++--------------------------------------------------------------------------------------------+---------+
+| `Tablecloth of Setting </docs/items/tablecloth-of-setting.html>`__                         |   450gp |
++--------------------------------------------------------------------------------------------+---------+
+
+
 The Ouroboros Temple (Original)
 *******************************
 
@@ -29,7 +87,7 @@ Headquarters to the Acquisitions Incorporated franchise
 `Hot Mess of Brie <franchises.html#hot-mess-of-brie>`__.
 Was once the temple of a doomsday cult, but was moved by magical means
 by `Jim Darkmagic <appendix_b/J.html#jim-darkmagic>`__ to the city of 
-`Kasoon <notable_cities.html#kassoon>`__ in the 
+`Kasoon <notable_cities/kassoon.html>`__ in the 
 `Principality of Mingia <world.html#the-principality-of-mingia>`__.
 
 Oddly, there is a magical quirk in this building that causes each
