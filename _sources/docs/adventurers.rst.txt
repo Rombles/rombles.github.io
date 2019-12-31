@@ -1,6 +1,28 @@
 Adventurers
 ###########
 
+Bolson Longlake
+***************
+
+Dragonborn Paladin.
+
+Feature: Researcher
+===================
+
+When you attempt to learn or recall a piece of lore, if you do not know that information, you often know 
+where and from whom you can obtain it. Usually, this information comes from a library, scriptorium, university, 
+or a sage or other learned person or creature. Your DM might rule that the knowledge you seek is secreted 
+away in an almost inaccessible place, or that it simply cannot be found. Unearthing the deepest secrets of 
+the multiverse can require an adventure or even a whole campaign.
+
+Notable Achievements
+====================
+
+- Bolson doesn't know what it's like to back down. When the party was engaged in an all-out battle with a wraith
+  in the crypts of
+  `Castle Rend </docs/other_locations.html#castle-rend>`__
+  , Bolson immediately shackled the wraith and went toe-to-toe until one of them died!
+
 Eberhard
 ********
 
@@ -29,6 +51,19 @@ Notable Achievements
    `Grand Vizer Faen <appendix_b/F.html#grand-vizer-faen>`__ for the long-term benefit of Acquisitions
    Incorporated and `Hot Mess of Brie.  <franchises.html#hot-mess-of-brie>`__
 
+Gustavo Pompodorious
+********************
+
+Half-elf Bard, College of Glamour
+
+Gustavo is a very self-involved character. Having grown up rich with nothing better to do, Gustavo spent most of
+his time reading dime novels about an over-glorified adventurer. Once he finished reading them all (over a dozen
+times, at least), he decided to become an adventurer himself.
+
+Notable Achievements
+====================
+
+
 Halaena Enrona and Charlie
 **************************
 
@@ -52,8 +87,10 @@ offers berries, small game, water, and so forth.
 Charlie
 =======
 
-Charlie was found by himself outside of `The Babbling Bandit <notable_cities.html#the-babbling-bandit>`__
-in `Kassoon. <notable_cities/kassoon.html>`__
+Charlie was found by himself outside of 
+`The Babbling Bandit <notable_cities.html#the-babbling-bandit>`__
+in 
+`Kassoon. <notable_cities/kassoon.html>`__
 After searching for the rightful owner, he happily followed Halaena home
 and has been her sidekick ever since.
 

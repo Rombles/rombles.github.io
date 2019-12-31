@@ -40,6 +40,9 @@ Appendix B: Characters
 `R <appendix_b/R.html>`__
 =========================
 
+`S <appendix_b/S.html>`__
+=========================
+
 `T <appendix_b/T.html>`__
 =========================
 

@@ -1,3 +1,31 @@
+Lord Saxton
+~~~~~~~~~~~
+
+Saxton is a power-hungry lord mashall and regent of Bedegar. He actively makes life difficult for
+those in the Barony. He is well-obeyed, generally despised, and rather dispicable.
+
+Shortly before the players became involved in the local politics of the
+`Barony of Bedegar <other_locations.html#barony-of-bedegar>`__ 
+, Saxton conspired with
+`Blood Chieftain Dorokor </docs/appendix_b/D.html#blood-chieftain-dorokor>`__
+to kill the
+`Baron of Bedegar <B.html#lord-bedegar>`__ 
+and his family. In return, Dorokor would receive an ancient orc talisman, kept
+by the Bedegar family as a trophy in their crypts.
+
+With the Bedegars dead, Saxton was free to sit on the throne in
+`Bedegar Keep </docs/other_locations.html#bedegar-keep>`__
+where he is free to impose his tyrannical (and human-supremacist) will upon the 
+people. The common folk of Bedegar are ambivalent to Saxton, but they revile his elite
+servant, the sadistic
+`Dreadlord Pelliton </docs/appendix_b/P.html#the-dreadlord-pelliton>`__.
+
+One of Saxton's first acts as regent was to double-cross his orcish pawns. When Dorokor
+sent a scout to claim the promised artifact, Saxton killed the orc emissary and sent his
+knights across the countryside, nailing death warrants for Bonebreaker Dorokor and her
+`White Tusk Orcs </docs/religions_and_organizations.html#white-tusk-orcs>`__
+in every tavern in every village they came across.
+
 Surina Kraghead
 ~~~~~~~~~~~~~~~
 

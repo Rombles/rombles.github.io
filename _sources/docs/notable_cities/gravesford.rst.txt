@@ -1,0 +1,107 @@
+Gravesford
+##########
+
++------------------------+-------------+
+| Approximate Population | 250         |
++------------------------+-------------+
+| Approximate Wealth     | 10,000gp    |
++------------------------+-------------+
+| Demographic            | Human: 100% |
++------------------------+-------------+
+
+Located some fifty miles from 
+`Kassoon <notable_cities/kassoon.html>`__
+, Gravesford is a village situated at the edge of civilization as far as the 
+`Barony of Bedegar <other_locations.html#barony-of-bedegar>`__
+is concerned, at least. There’s been a bridge across the River Graves, and a town around that, for as long 
+as anyone can remember and as far back as any records go. Folks know, or believe, that the bridge and the 
+`Reluctant Pig </docs/notable_cities/gravesford.html#the-reluctant-pig>`__
+existed long before any other house in Gravesford, even the church, was built.
+
+As in any countryside town, everyone in Gravesford knows everyone else, and word is quick to spread. 
+If newcomers - like the players — arrive in town and spend the night in the local inn, odds are the entire 
+population of two-hundred-odd villagers including nearby farmers will know by mid-morning. The town’s two 
+public buildings, the Reluctant Pig and the 
+`Church of St. Gaed the Confessor </docs/notable_cities/gravesford.html#church-of-st-gaed>`__
+, are large enough for the entire town to crowd into for major celebrations like the harvest-tide feast 
+and candle festival of St. Gaed’s Feast.
+
+Gravesford is separated from
+`The Forest Rend </docs/other_locations.html#the-forest-rend>`__
+, a rather dangerous forest known for all kinds of evil creatures, by the River Graves.
+
+It is here that the players met 
+`Pinna </docs/appendix_b/P.html#pinna-grayfall>`__,
+a young, rather strange wizard whose talents for research far outweigh even some of the
+oldest and mightiest wizards.
+
+Notable Locations
+=================
+
+Church of St. Gaed
+------------------
+
+The Church of St. Gaed the Confessor is one of the oldest buildings in Gravesford, after the Reluctant Pig, 
+of course. Its wooden beams need repair, but it is still the cultural center of the village, and Gravesford 
+gathers here for all sorts of occasions, not just on holy days. The stained glass window depicting Saint Gaed 
+in black armor smiting the traitor saint, Hylae the Corrupt, is the most astonishing piece of art anyone in 
+town has ever seen. When the sun hits it, it’s like a laser light show.
+
+The church is run by Father Belderone, a priest of St. Gaed. He is a city man from Bedegar Keep, and it’s 
+reflected in his rapid, matter-of-fact speech, but the villagers treat him as one of their own. While several 
+priests tend to the church, Father Belderone is its only cleric.
+
+----
+
+    *In life Gaed was the chief confessor in a secret order of knights who ferreted out spies within the king’s 
+    court.  Unbeknownst to anyone, the chief of those spies was a fiend, a devil under the command of an evil 
+    saint.  Gaed exposed this devil and did battle with it. He lost the battle and his life, but exposed a deadly 
+    conspiracy and saved the king and the kingdom. He forced the devil to reveal its true nature, and Cavall 
+    canonized him immediately as the Confessor, saint of exposing secrets and foiling conspiracies. It was Gaed 
+    who died at the hands of the devil spy. It was Saint Gaed the Confessor, now immortal, who returned and slew 
+    the devil.*
+
+----
+
+The Reluctant Pig
+-----------------
+
+The oldest building in Gravesford is the Reluctant Pig, a two-story inn with a moss-covered roof constructed 
+from the same stone as the Gravesford Bridge. The sign outside depicts a young pig straining against a leash 
+held by someone we cannot see. The sign has no text, as most people in town and most carters and journeymen 
+cannot read.
+
+Pinna's Shop
+------------
+
+Owner: 
+`Pinna </docs/appendix_b/P.html#pinna-grayfall>`__,
+
+
+The spicy-sweet scent of boiled licorice and anise seed billows from the smokestack of Pinna’s dome-roofed hut. 
+Other medicinal herbs hang by the doorway, like long garlic ropes and branches of flowering barberry. 
+Inside, she keeps a brass cauldron boiling at all times in the center of the room. Unkempt bookshelves overfilled 
+with tomes, scrolls, and bottles line the walls, and both chairs in the house sag under the weight of unwashed 
+clothing.
+
+Pinna’s shop is also her one-room house. While at home, Pinna is usually doing at least three things at 
+once—brewing ointments, clipping shoots from herbs, and practicing charms, or any other combination of wizardly 
+activities. She only stops multitasking if another wizard enters her shop, at which point she drops everything 
+and focuses intently on them.
+
+Pinna sells dozens of rustic herbal remedies for 5 cp apiece
+
+Pinna's Wares
+^^^^^^^^^^^^^
+
++-----------------------------+--------+
+| Item                        | Prices |
++=============================+========+
+| Healing Potion (regular)    | 50g    |
++-----------------------------+--------+
+| Healing Potion (greater)    | 250g   |
++-----------------------------+--------+
+| Potion of Animal Friendship | 250g   |
++-----------------------------+--------+
+| Potion of Poison Resistance | 300g   |
++-----------------------------+--------+

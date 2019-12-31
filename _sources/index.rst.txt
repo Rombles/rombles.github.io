@@ -10,11 +10,13 @@ Welcome to Hot Mess of Brie Acquisitions Incorporated Bible
    :maxdepth: 2
    :caption: Contents:
 
+   docs/fantasy-costco-wares
    docs/adventurers
    docs/world
    docs/notable_cities
    docs/other_locations
    docs/religions_and_organizations
+   docs/gods
    docs/nobility.rst
    docs/franchises
    docs/items

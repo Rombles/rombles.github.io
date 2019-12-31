@@ -7,6 +7,19 @@ Brother to Bloodforge. Took in Gryzar Bloodforge after his mother was
 killed and father was lost in mourning after trying to search for his
 wife.
 
+Lord Bedegar
+~~~~~~~~~~~~
+
+Lord of the 
+`Bedegar lands <other_locations.html#barony-of-bedegar>`__ 
+held in the Principality of Mingia. He and his entire family, save his son 
+`Edmund Bedegar <E.html#edmund-bedegar>`__
+, were murdered by the 
+`White Tusk Orcs </docs/relgions_and_organizations.html#white-tusk-orcs>`__
+in a ploy to land
+`Lord Saxton <S.html#lord-saxton>`__
+the seat of the barony.
+
 Beyhan Enwynn
 ~~~~~~~~~~~~~
 
