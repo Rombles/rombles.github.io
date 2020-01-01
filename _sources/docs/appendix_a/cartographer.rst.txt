@@ -1,0 +1,142 @@
+Cartographer
+############
+
+Essential Functions: 
+    Create and maintain maps of a franchise’s journeys; dictate directions
+
+Position Proficiency: 
+    In addition to the proficiencies noted below, you can add your proficiency 
+    bonus when you make an ability check to create or examine maps, search for 
+    new paths in the wild, or assess a route for possible dangers.
+
+    As **Rank 1** cartographer, you gain proficiency with cartographer’s
+    tools, and your choice of vehicles (land) or vehicles (water). 
+
+Ability Advancement
+    +------------------+----------------------------------------------------------------+
+    | Franchise Rank   | Features                                                       |
+    +==================+================================================================+
+    | 1                | Proficiencies and starting equipment, It’s a Rental            |
+    +------------------+----------------------------------------------------------------+
+    | 2                | Spyglass of Clairvoyance, Tale of Safe Travel                  |
+    +------------------+----------------------------------------------------------------+
+    | 3                | Map of Shortcuts, Map of the Moment                            |
+    +------------------+----------------------------------------------------------------+
+    | 4                | Elder Cartographer’s Glossography, Greater Tale of Safe Travel |
+    +------------------+----------------------------------------------------------------+
+
+It’s a Rental 
+    At **Rank 1**, at the start of any mission, you can requisition a
+    second-hand draft horse and cart (barely functional), riding horses and
+    ponies (typically well aged, one for each party member), passage on a
+    ship or ferry (might require minor labor as a part of the fare), and
+    similar transportation. Any damage or losses to requisitioned equipment
+    is expected to be repaid to Head Office.
+
+Spyglass of Clairvoyance
+    A common magic item given to a cartographer by the Head Office of
+    Acquisitions Incorporated. As an action, you can look through the
+    spyglass of clairvoyance at a location within 1 mile of you that is
+    obstructing your view, such as a mountain, castle, or forest. You must
+    then succeed on a DC 15 Wisdom check using cartographer’s tools to map
+    the natural terrain found within three miles of that chosen point. You
+    do not gain any knowledge of creatures, structures, or anything other
+    than natural terrain. This property of the spyglass cannot be used again
+    until the next dawn.
+
+Tale of Safe Travel
+    Starting at **Rank 2**, you gain the ability to perform a 45-minute
+    ritual using your cartographer’s tools, maps, and 50gp in consumed
+    material components. By doing so, you ensure safe travel for you and
+    other creatures, from your current location to another location you
+    could normally reach within one day The destination must be one to which
+    you have traveled previously, or for which you have an accurate route
+    and map. If your tale is told with reverence and precision, you and up
+    to six other creatures plus their gear (including vehicles or mounts)
+    become encircled in a magical bubble and are pulled into the Border
+    Ethereal. During the ritual, you tell a story of your future journey,
+    relating the details of what will be seen en route. The DM can choose to
+    add to the story, imparting additional details or planting seeds for
+    future adventures. If you wish, the ritual can be ended early, allowing
+    the party to encounter what’s being described by the DM. Whenever the
+    ritual is ended or interrupted by you, all the travelers arrive safely
+    at the destination. At the DM’s discretion, all the travelers affected
+    by the ritual can gain the benefit of either a short rest or a long rest
+    during the voyage.
+
+Map of Shortcuts
+    At **Rank 3**, your map case becomes a common magic item. In addition to
+    storing normal maps, your cartographer’s map case can be used to
+    generate a special map identifying a shortcut. You can use your action
+    to make a DC 15 Wisdom (Perception) check, with a success revealing a
+    map buried in your cartographer’s map case noting a relevant shortcut.
+    Your travel time is reduced by half while you follow the route. If you
+    succeed at a check by 5 or map, the map includes notes on terrain giving
+    you advantage on the next ability check you make through the mapped area
+    in the next hour. Once you use this feature, you cannot use it again
+    until you finish a long rest.
+
+Map of the Moment
+    Starting at **Rank 3**, you can use an action to make a DC 15 Wisdom
+    (Perception) check and search your cartographer’s map case to find a map
+    either related to your current mission or inspiring a new one. On a
+    success, you find a map with a prominent landmark. The map has
+    information on the natural terrain within one mile of the landmark. Once
+    you use this feature, you cannot use it again until dawn seven days
+    later.
+
+    +------+-------------------------------------------------------------------------------------+
+    | d8   | Landmark                                                                            |
+    +======+=====================================================================================+
+    | 1    | The Ancient Sarcophagus of Gerald Smith                                             |
+    +------+-------------------------------------------------------------------------------------+
+    | 2    | A tree labeled “this tree”                                                          |
+    +------+-------------------------------------------------------------------------------------+
+    | 3    | “The Last Resting Place of My Rich Brother that is Also a Bear Cave”                |
+    +------+-------------------------------------------------------------------------------------+
+    | 4    | A range of peaks known as the Slightly Wobbly Spires                                |
+    +------+-------------------------------------------------------------------------------------+
+    | 5    | An ever-flowing, non magical spigot of pure, clear water in the middle of nowhere   |
+    +------+-------------------------------------------------------------------------------------+
+    | 6    | A cave filled with screaming bioluminescent worms                                   |
+    +------+-------------------------------------------------------------------------------------+
+    | 7    | The most haunted forest for ten miles in any direction                              |
+    +------+-------------------------------------------------------------------------------------+
+    | 8    | A huge pile of rocks with no other rocks within sight                               |
+    +------+-------------------------------------------------------------------------------------+
+
+Elder Cartographer’s Glossography 
+    When you attain **Rank 4**, you gain a small tome that is an uncommon
+    magic item. *The Elder Cartographer’s Glossography* grants advantage on
+    Intelligence or Wisdom saving checks related to geographical features or
+    locations.
+
+Greater Tale of Safe Travel
+    Also at **Rank 4**, your Tale of Safe Travel feature can now span up to
+    three days of travel. If your franchise headquarters is mobile, you can
+    include it in your Tale of Safe Travel, and can also include items or
+    goods weighing up to 2,000 pounds.
+
+Why Be a Cartographer?
+----------------------
+
++----+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| d8 | Reason                                                                                                                                                |
++----+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1  | A paranoid person by nature, you like seeing what's ahead of you at all times                                                                         |
++----+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2  | Your parent was a cartographer, their parent was a cartographer, and by the gods, you're going to be one too                                          |
++----+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3  | You're fairly certain no one else in your party even knows how to hold a map, let alone read one                                                      |
++----+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4  | You like spyglasses. A lot.                                                                                                                           |
++----+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5  | Your nickname as a child was "the cartography kid"                                                                                                    |
++----+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 6  | Contrary to popular opinion, the destination is much, much more important than the journey                                                            |
++----+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 7  | A good map is like an adventure without the bugs. And the mud. And the wolves.                                                                        |
++----+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 8  | You suffer from the nagging feeling of never knowing why you've come into a room, and you need the professional flourish that lets you cover for that |
++----+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+

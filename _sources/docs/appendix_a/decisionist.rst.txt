@@ -1,0 +1,156 @@
+Decisionist
+###########
+
+    A decisionist brings decisive leadership to an Acquisitions Incorporated franchise. They settle
+    disputes and ensure that the team moves forward towards its goals, often serving as a
+    leader (officially or otherwise) and compass for the party. A signature move of the decisionist
+    is to impress the importance of a particular looming choice on the other franchisees, then call
+    for a vote. The result of all franchise votes are recorded, then later reported to Head Office.
+    Decisionists are also concerned with franchise morale and teamwork, helping all members of the
+    franchise work together effectively.
+
+    All decisionists vary in their approach to the task. You might primarily attempt to convince
+    others through charismatic arguments, or through force of will or intellectual cunning. You
+    might lead by example, or by extolling the examples of other people who've done the things you
+    haven't quite gotten around to yet. Many decisionists go on to publish famous tomes, such as the
+    best-selling *Habits of Effective Adventuring Parties* and *I Don't Care If the Rogue Stole Your
+    Coins, We Have a Job to Do.* You help advance the franchise by calling for votes, making sure
+    you're always on the side with the most votes, and resolving disputes within the franchise
+    party.
+
+Essential Functions:
+    Receive one extra vote on franchise matters; resolve interpersonal conflicts
+
+Position Proficiency:
+    In addition to the proficiencies noted below, you can add your proficiency bonus to an ability
+    check to influence a decision being made by a group, assess the popularity of certain customs or
+    individuals, or boost the morale of franchise hirelings.
+
+    As a **Rank 1** decisionist, you gain proficiency with a musical instrument (horn). Head office
+    also grants you the use of a musical instrument (your choice of horn), a voting kit (ballots, a
+    ballot box, an "I Voted" sticker set), and a coin of decisionry. This large gold coin is
+    emblazoned with the sigil of Acquisitions Incorporated as "heads," and has a "tails" image that
+    varies.
+
+    +----------------------------------+------------------------------------------------------------------+
+    | Coin of Decisionry "Tails" Image |                                                                  |
+    +==================================+==================================================================+
+    | d8                               | Tails                                                            |
+    +----------------------------------+------------------------------------------------------------------+
+    | 1                                | Omin Dran                                                        |
+    +----------------------------------+------------------------------------------------------------------+
+    | 2                                | Yourself                                                         |
+    +----------------------------------+------------------------------------------------------------------+
+    | 3                                | A pumpkin                                                        |
+    +----------------------------------+------------------------------------------------------------------+
+    | 4                                | A fourteen-headed hydra (it's a big coin)                        |
+    +----------------------------------+------------------------------------------------------------------+
+    | 5                                | An old despotic tyrant, their image defaced                      |
+    +----------------------------------+------------------------------------------------------------------+
+    | 6                                | A demon lord                                                     |
+    +----------------------------------+------------------------------------------------------------------+
+    | 7                                | A foaming tankard of beer                                        |
+    +----------------------------------+------------------------------------------------------------------+
+    | 8                                | A Masked Lord of `Deepfathom <notable_cities/deepfathom.html>`__ |
+    +----------------------------------+------------------------------------------------------------------+
+
+Ability Advancement
+    +------------------+--------------------------------------------------+
+    | Franchise Rank   | Features                                         |
+    +==================+==================================================+
+    | 1                | Proficiencies and starting equipment, Tiebreaker |
+    +------------------+--------------------------------------------------+
+    | 2                | Absentee Ballot, Coin of Decisionry              |
+    +------------------+--------------------------------------------------+
+    | 3                | Better Odds, Inspired Decision                   |
+    +------------------+--------------------------------------------------+
+    | 4                | Charming Misdemeanor, Clandestine Kit            |
+    +------------------+--------------------------------------------------+
+
+Tiebreaker
+    Starting at **Rank 1**, whenever the members of your franchise take a vote, you can present your
+    coin of decisionry and cast two votes.
+
+Absentee Ballot
+    Starting at **Rank 2**, if a member of your franchise party is absent, you gain their vote and
+    can decide quite confidently how they would have voted. In addition, if a vote is ever taken
+    while you are absent, you can call for a recount and add your two votes to the final voting
+    result.
+
+Coin of Decisionry
+    Starting at **Rank 2**, your *coin of decisionry* becomes a common magic item. When you flip the
+    coin, it always lands with the Acquisitions Incorporated sigil face down, and a message appears
+    on the "tails" face. Roll a d4 on the following table to determine the message.
+
+    +----+---------------+
+    | d4 | Decision      |
+    +====+===============+
+    | 1  | Lucrative     |
+    +----+---------------+
+    | 2  | Brand Appeal  |
+    +----+---------------+
+    | 3  | Indeterminate |
+    +----+---------------+
+    | 4  | Ruinous       |
+    +----+---------------+
+
+    The coin has absolutely no divination abilities, and its results when you use it are random. But
+    nobody else knows that. When a creature within 10 feet of you flips the coin (after having had
+    its powerful prognostication powers dutifully explained), you can exert your will to control its
+    operation as a bonus action, choosing the result that appears after it lands as a means of
+    gently coercing the user toward a specific course of action. The creature flipping the coin can
+    detect your manipulation with a successful DC 13 Wisdom (insight) check.
+
+Better Odds
+    When you reach **Rank 3**, your *coin of decisionry* gains a measure of actual divination power
+    and becomes an uncommon magic item and becomes an uncommon magic item. In addition to its normal
+    function, you can use an action to flip the *coin of decisionry* twice while pondering a
+    specific plan or objective, noting both random results. If you succeed a DC 15 Intelligence
+    (Arcana) check, you learn which of the two results is more applicable to the course of action.
+    This property of the coin can't be used again until the next dawn.
+
+Inspired Decision
+    Starting at **Rank 3**, whenever a serious franchise vote is taken and the result goes the way
+    you voted, you can inspire the rest of the franchise team with a brief speech. Make a DC 15
+    Charisma (Perception) check. On a success, each franchise member of your choice who can hear you
+    gains advantage on the next ability check, attack roll, or saving throw they make in the next
+    hour. Once you use this feature, you can't use it again until you finish a long rest.
+
+Charming Misdemeanor
+    As a **Rank 4** decisionist, you can present your *coin of decisionry* to grant yourself an
+    extra vote when your franchise votes, for a total of three votes. Once you do so, you cannot do
+    so again until dawn seven days later.
+
+Clandestine Kit
+    As a **Rank 4**, your voting kit becomes a common magic item that conceals an extradimensional
+    space. As a bonus action, you can place one tool kit that you are proficient with into the
+    *voting kit*, or can remove it. No other type of object can be placed into the extradimensional
+    space. A creature searching the *voting kit* finds an extracts the tool kit with a successful DC
+    20 Intelligence (Investigation) or Wisdom (Perception) check.
+
+    Additionally, you can use the *voting kit* to cast *charm person* (save DC 15). This property of
+    the kit can't be used again until next dawn.
+
+Why Be a Decisionist?
+---------------------
+
++----+---------------------------------------------------------------------------------------------------------+
+| d8 | Reason                                                                                                  |
++====+=========================================================================================================+
+| 1  | It's always you who picks where everyone has lunch.                                                     |
++----+---------------------------------------------------------------------------------------------------------+
+| 2  | Roughly half your choices are the right one. You might as well just toss a coin for it.                 |
++----+---------------------------------------------------------------------------------------------------------+
+| 3  | You have no idea. In fact, you're constantly plagued by indecision                                      |
++----+---------------------------------------------------------------------------------------------------------+
+| 4  | Democracy is the greatest force for change in the world, but is ruined by everyone else voting          |
++----+---------------------------------------------------------------------------------------------------------+
+| 5  | All the other positions were taken                                                                      |
++----+---------------------------------------------------------------------------------------------------------+
+| 6  | You've always felt it was your calling to tell other people what to do. Now make it official            |
++----+---------------------------------------------------------------------------------------------------------+
+| 7  | When faced with two choices, you've always yearned for the freedom to choose                            |
++----+---------------------------------------------------------------------------------------------------------+
+| 8  | As a child, you had a sibling make you choose which of your toys lived or died. You were never the same |
++----+---------------------------------------------------------------------------------------------------------+
+

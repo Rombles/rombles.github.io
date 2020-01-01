@@ -1,0 +1,135 @@
+Documancer
+##########
+
+    Every great Acquisitions Incorporated quest begins with a contract from Head Office -- and a
+    franchise's documancer is most likely the one who controls and channels the power of that contract.
+    A documancer bears the responsibility of managing each of a franchise's quests, of ensuring that
+    every condition of the quest is fulfilled, and of recording and sending on information vital to Head
+    Office when the mission is complete. When creating contracts with other organizations, a documancer
+    makes sure that the language benefits both the franchise and Acquisitions Incorporated.
+
+    As a documancer you are respected for having the commitment and mental fortitude required to
+    work with Head Office. You advance your franchise by using documancy for communication,
+    insisting on recording all details in writing, retaining records, destroying other records, and
+    recalling vital information.
+
+    +----+------------------------------------------------------------------------------------------------------------+
+    | d6 | Method                                                                                                     |
+    +====+============================================================================================================+
+    | 1  | Any way you like, provided you make a copy first                                                           |
+    +----+------------------------------------------------------------------------------------------------------------+
+    | 2  | Mimic shredder                                                                                             |
+    +----+------------------------------------------------------------------------------------------------------------+
+    | 3  | Fake dragon-head incinerator                                                                               |
+    +----+------------------------------------------------------------------------------------------------------------+
+    | 4  | The bottomless hole in the basement -- at least you're sure it's bottomless                                |
+    +----+------------------------------------------------------------------------------------------------------------+
+    | 5  | Feeding it to the goat out back                                                                            |
+    +----+------------------------------------------------------------------------------------------------------------+
+    | 6  | Making your coworkers eat it by slipping it into their food, piece by piece--it's the only way to be sure. |
+    +----+------------------------------------------------------------------------------------------------------------+
+
+Essential Functions
+    Record information; track job and quest details within the franchise
+
+Position Proficiency
+    In addition to the proficiencies noted below, you can add your proficiency bonus to an ability
+    check to organize lore, analyze official or arcane documents, or convey a legally binding point
+    of view.
+
+    As a **Rank 1** documancer, you gain proficiency with calligrapher's supplies.
+
+    Head Office also grants you the use of calligrapher's supplies (ink, a dozen sheets of
+    parchment, and three quills), a documancy satchel for your calligrapher's supplies, a ledger,
+    sealing wax, copper and silver leaf, a documancer's seal of limited authority, and a scroll
+    case.
+
+Ability Advancement
+    +------------------+-----------------------------------------------------+
+    | Franchise Rank   | Features                                            |
+    +==================+=====================================================+
+    | 1                | Proficiencies and starting equipment, Gift of Words |
+    +------------------+-----------------------------------------------------+
+    | 2                | Documancy Satchel, Fluent in Boss                   |
+    +------------------+-----------------------------------------------------+
+    | 3                | Satchel of Holding, Document Flexibility            |
+    +------------------+-----------------------------------------------------+
+    | 4                | Scroll of Humidor, Scroll Service                   |
+    +------------------+-----------------------------------------------------+
+
+Gift of Words
+    At **Rank 1**, you are fluent in the semi-arcane language of documancy. This knowledge grants
+    you advantage on Intelligence checks to decipher codes or similar scripts. The DM might also
+    provide you with hints whenever you try to solve a puzzle or decipher clues involving writing.
+
+Documancy Satchel
+    At **Rank 2**, your documancy satchel becomes a common magic item, allowing you to magically
+    send and receive documents to and from Head Office through a special pouch. Your *documancy
+    satchel* magically produces pre-written and signature-ready contracts at your request, covering
+    most common contractual needs. It also occasionally produces sticky notes printed with useful
+    information and inspirational quotes from Head Office.
+
+Fluent in Boss
+    Also at **Rank 2**, your documancy training allows you to better process Head Office
+    communications, as well as to understand what pleases your superiors. You can cast the *augery*
+    spell, with the spell's omens of weal or woe, based solely on the perspectives of Head Office.
+    (It should be noted that Head Office at times as a surprisingly high disregard for potential woe
+    to its employees.) Once you use this feature, you cannot use it again until dawn seven days
+    later.
+
+Satchel of Holding
+    At **Rank 3**, your *documancy satche* gains additional features and becomes an uncommon magic
+    item. One of the satchels' pouches now functions as a *bag of holding*. 
+
+    Additionally, you can use an action to draw forth from the documancy satchel *a spell scroll of
+    comprehend languages*. The scroll vanishes when used, or ten minutes after it appears. This
+    property of the bag can't be used again until the next dawn.
+
+Document Flexibility
+    Also at **Rank 3**, you gain proficiency with a forgery kit. One such kit (containing several
+    types of ink, a variety of parchments and papers, several quills, seals and sealing wax, gold
+    and silver leaf, and small tools to sculpt melted wax to mimic a seal) is always contained
+    within the extradimensional space of your *documancy satchel*.
+
+Scroll of Humidor
+    At **Rank 4**, your *documancy satchel* gains additional power and becomes a rare magic item.
+    Within the satchel, a dedicated extradimensional space can hold up to thirty documents or spell
+    scrolls. Placing a single document into the scroll humidor is an action. Drawing forth a desired
+    scroll is a bonus action.
+
+Scroll Service
+    Also at **Rank 4**, you can use an action to request one spell scroll containing a spell up to
+    3rd level from Head Office. If you succeed on a DC 15 Intelligence (Arcana) check, the scroll
+    instantly appears within your *documancy satchel*. Only you can use this scroll. The scroll
+    vanishes when used, or ten minutes after it has been summoned. After a successful use, this
+    property can't be used again until the next dawn.
+
+Why Be A Documancer?
+--------------------
+
++----+---------------------------------------------------------------------------------------------------------+
+| d8 | Reason                                                                                                  |
++====+=========================================================================================================+
+| 1  | You heard a rumor once that signing a contract with your off hand is technically non-binding            |
+|    | and you're desperate to see if it's true. For reasons.                                                  |
++----+---------------------------------------------------------------------------------------------------------+
+| 2  | All businesses have their ups and downs, but there's always money to be made from "processing           |
+|    | fees"                                                                                                   |
++----+---------------------------------------------------------------------------------------------------------+
+| 3  | You have a habit of always being clear about what you've promised, but never saying when                |
+|    | you'll do it                                                                                            |
++----+---------------------------------------------------------------------------------------------------------+
+| 4  | You love doing decorative scrollwork on documents, knowing that's the best place to hide the            |
+|    | fine print.                                                                                             |
++----+---------------------------------------------------------------------------------------------------------+
+| 5  | As a child, you learned to cross your fingers behind your back when making a promise. Now you           |
+|    | yearn to make that legally binding.                                                                     |
++----+---------------------------------------------------------------------------------------------------------+
+| 6  | Your habit of screaming, "No take backs!" after any group decision seemed to suggest your               |
+|    | true calling                                                                                            |
++----+---------------------------------------------------------------------------------------------------------+
+| 7  | You believe that language is an art, not a science. Who's to say what is or isn't a "real"              |
+|    | word                                                                                                    |
++----+---------------------------------------------------------------------------------------------------------+
+| 8  | The smell of old parchment makes you giddy.                                                             |
++----+---------------------------------------------------------------------------------------------------------+

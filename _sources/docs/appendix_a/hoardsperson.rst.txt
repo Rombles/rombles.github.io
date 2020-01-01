@@ -1,0 +1,146 @@
+Hoardsperson
+############
+
+    As the name suggests, Acquisitions Incorporated is all about the acquiring, and the
+    hoardsperson's job is all about sorting that hard-earned loot.  Each hoardsperson plays
+    the vital role of managing a franchise's resources--including the inventory of all supplies 
+    used and treasure gained during an adventure. Hoardspersons pay particular attention to making
+    sure that the supplies are requisitioned through Acquisitions Incorporated-approved sources
+    whenever possible, and ensuring that the proper selection of loot is sent to Head Office at the
+    end of a mission.
+
+    As a Hoardsperson, you are known as a trustworthy and responsible individual. You support your
+    franchise by demonstrating accuracy, avoiding shortfalls, and anticipating resource needs.
+
+Essential Functions
+    Manage stores and items; track resources
+
+Position Proficiency
+    In addition to the proficiencies noted below, you can add your proficiency bonus to an ability
+    check to negotiate a price for goods and services, assess the quality of equipment and treasure,
+    or analyze resources in a local area.
+
+    As a **Rank 1** hoardsperson, you gain proficiency with jeweler's tools.
+
+    Head Office also grants you the use of jeweler's tools (a small saw and hammer, files, pliers,
+    and tweezers) and an account ledger, as well as up to 5gp worth of equipment from the following
+    options: barrel, basket, block and tackle, bucket, chest, flask or tankard, jug or pitcher, iron
+    pot, pouch, sack, saddlebags, vial, and waterskin.
+
+Ability Advancement
+    +------------------+------------------------------------------------------+
+    | Franchise Rank   | Features                                             |
+    +==================+======================================================+
+    | 1                | Proficiencies and starting equipment, What a Deal    |
+    +------------------+------------------------------------------------------+
+    | 2                | Living Loot Satchel, Living the Good Life            |
+    +------------------+------------------------------------------------------+
+    | 3                | Secret Satchel, That Thing You Need                  |
+    +------------------+------------------------------------------------------+
+    | 4                | Portable Hole Satchel, That Expensive Thing You Need |
+    +------------------+------------------------------------------------------+
+
+What a Deal
+    Also at **Rank 1**,  you can use your extensive supply network to buy one item found on any
+    table in the "Mounts and Vehicles" or "Trade Goods" sections in chapter 5 of *The Player's
+    Handbook* and have it deliered to your franchise headquarters within one day. With a successful
+    DC15 Charisma (Pursuasion) check, you also negotiate a 50% discount on the item.
+
+Living Loot Satchel
+    As a **Rank 2** hoardsperson, you are granted the use of a *living loot satchel*, which is an
+    uncommon magic item. It functions as a *bag of holding* and is available in a variety of colors
+    and styles.
+
+    +------------+--------------------------------------------------------------+
+    | Class-Based Living Loot Satchel                                           |
+    +============+==============================================================+
+    | Class      | Satchel                                                      |
+    +------------+--------------------------------------------------------------+
+    | Barbarian  | Broad belt with a dozen hanging pockets                      |
+    +------------+--------------------------------------------------------------+
+    | Bard       | Lute case                                                    |
+    +------------+--------------------------------------------------------------+
+    | Cleric     | Hollowed-out holy tome                                       |
+    +------------+--------------------------------------------------------------+
+    | Druid      | Made from natural, organic, locally-sourced woven fibers     |
+    +------------+--------------------------------------------------------------+
+    | Fighter    | A thick, battle-scarred iron lockbox                         |
+    +------------+--------------------------------------------------------------+
+    | Paladin    | A metal case with fine engraving and scrollwork              |
+    +------------+--------------------------------------------------------------+
+    | Ranger     | A fur-lined bindle                                           |
+    +------------+--------------------------------------------------------------+
+    | Rogue      | A nondescript coin pouch                                     |
+    +------------+--------------------------------------------------------------+
+    | Sorcerer   | A battered leather satchel, prone to spitting out            |
+    |            | multi-colored sparks at the seams                            |
+    +------------+--------------------------------------------------------------+
+    | Warlock    | A patchwork monster-leather satchel with a "purely           |
+    |            | decorative" fanged mouth                                     |
+    +------------+--------------------------------------------------------------+
+    | Wizard     | A pocket dimension hidden up your sleeve or inside your hat  |
+    +------------+--------------------------------------------------------------+
+
+    The *living loot satchel* is a kind of magical being that safeguards the franchise's funds nd
+    valuables. It's innards are connected to a secure coffer within Head Office's vault in
+    `Deepfathom <../notable_cities/deepfathom.html>`__, to which the satchel periodically transfers 
+    the franchise's wealth. As an action, you can transfer any amount of your franchise funds back 
+    to your satchel with a successful DC 15 Dexterity (Sleight of Hand) check.
+
+Living the Good Life
+    Also at **Rank 2**, Head Office trusts that as long as your needs are met, you have no reason to
+    skim any profits. You maintain a wealthy lifestyle at no cost to you.
+
+Secret Satchel
+    As a **Rank 3** hoardsperson, your *living loot satchel* gets an upgrade to function as the
+    replica chest used for the *Leomund's Secret Chest* spell, becoming a rare magic item. You can
+    open the secret chest through your *living loot satchel* to deposit or withdraw items--even
+    items that wouldn't normally fit in your satchel, but which fit within the chest. Thanks to Head
+    Office striking deals you don't want to know about with extraplanar creatures you really don't
+    want to know about, there is no chance for the spell to end.
+
+That Thing You Need
+    At **Rank 3**, you can use a bonus action to reach into your *living loot satchel** and make a
+    DC 15 Dexterity (Sleight of Hand) check. On a success, you draw forth an item of your choice on
+    the Adventuring Gear table in chapter 5 of the *Player's Handbook*. The item must be of a size
+    that can fit into your secret chest and be worth no more than 15gp. Once you attempt to draw
+    five items from your satchel, you cannot draw forth any more items until the next dawn.
+
+Portable Hole Satchel
+    At **Rank 4**, your *living loot satchel* receives another upgrade, becoming a very rare magic
+    item. The secret chest addressed by your satchel now has the storage capacity of a *portable
+    hole* --6 feet in diameter and 10 feet deep. As before, you can place any appropriately sized
+    object into the *portable-hole*-sized chest, even if it wouldn't normally fit into your satchel.
+
+That Expensive Thing You Need
+    Also at **Rank 4**, when you use your That Thing you Need feature, you can requisition any item
+    of up to 250gp in value, as long as it would fit into the container of your satchel's *portable
+    hole.*
+
+Why Be a Hoardsperson?
+----------------------
+
++----+---------------------------------------------------------------------------------------------------------+
+| d8 | Reason                                                                                                  |
++====+=========================================================================================================+
+| 1  | You once tried to dive into a huge pool of gold coins. It hurt.                                         |
++----+---------------------------------------------------------------------------------------------------------+
+| 2  | You've been betrayed by your adventuring party before, and there's no way now that you'll               |
+|    | trust anyone else to hold on to the loot.                                                               |
++----+---------------------------------------------------------------------------------------------------------+
+| 3  | Once, through a series of increasingly complex negotiations, you traded a paper clip for                |
+|    | temporary control of a minor fiefdom.                                                                   |
++----+---------------------------------------------------------------------------------------------------------+
+| 4  | Material possessions don't mean that much to you. Or at least that's the story you're going with        |
++----+---------------------------------------------------------------------------------------------------------+
+| 5  | You've never had a problem spending other people's money. Surely keeping other people's money           |
+|    | can't be that hard.                                                                                     |
++----+---------------------------------------------------------------------------------------------------------+
+| 6  | You believe there's no such thing as worthless goods. Only unmotivated buyers.                          |
++----+---------------------------------------------------------------------------------------------------------+
+| 7  | You're not a hoarder. More of a passionate collector. You can stop any time you want.  Really.          |
++----+---------------------------------------------------------------------------------------------------------+
+| 8  | Given the personalities of the other party members, it was mutually agreed that you were the            |
+|    | only one who could be trusted.                                                                          |
++----+---------------------------------------------------------------------------------------------------------+
+

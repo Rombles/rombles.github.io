@@ -1,0 +1,144 @@
+Occultant
+#########
+
+    *Our next kill changes everything*
+        \- Occultant divination
+
+    An occultant tracks the creatures and foes that a franchise has bested or killed, weighing them
+    against the deeds the franchise has achieved. Using the eldritch abacus for which this position
+    is named, an occultant measures the karmic coordinates of their franchise, hoping to gain
+    portents of that which is yet to come.
+
+    Like all occultants, you are a grim and enigmatic figure. Even your closest companions might be
+    wary of the power you channel--and nobody wears that aura of dark mystery like you do. you help
+    advance your franchise by determining whether foes should live or die, prognosticating correctly
+    (or at least authoritatively), keeping the rest of the party attuned to the importance of karma,
+    and making the right calls on how to best "clean up" any incorrect readings or
+    misunderstandings.
+
+Noteworthy Occultants
+    Talantha Three-Coins
+
+Essential Functions
+    Track kills; assess the value of the franchise of the living and the dead
+
+Position Proficiency
+    In addition to the proficiencies noted below,you can add your proficiency bonus to an ability
+    check to intimidate a creature close to death, assess what disease or poison killed a creature,
+    or explain what the dead body is doing under your bed at the inn.
+
+    As a **Rank 1** occultant, you gain proficiency with one of the following of your choice: cook's
+    utensils, leatherworker's tools, or weaver's tools
+
+    Head Office also grants you use of a tool kit for your chosen proficiency, a merchant's scale,
+    five waterproof belt pouches in which to store creature parts or other tools, and a unique item
+    known as the occultant abacus (sometimes just referred to as an occultant), whose beads resemble
+    tiny skulls.
+
+Ability Advancement
+    +----------------+-----------------------------------------------------+
+    | Franchise Rank | Features                                            |
+    +================+=====================================================+
+    | 1              | Proficiencies and starting equipment, Read the Kill |
+    +----------------+-----------------------------------------------------+
+    | 2              | Eldritch Occultant, Bring Out Your Dead             |
+    +----------------+-----------------------------------------------------+
+    | 3              | Bead of Instant Karma, Death's Omen                 |
+    +----------------+-----------------------------------------------------+
+    | 4              | Bead of Diverted Karma, Correct the Balance         |
+    +----------------+-----------------------------------------------------+
+
+Read the Kill
+    Also at **Rank 1**, your occultant abacus not only tracks your franchise's kills, it helps you
+    determine the impact of those kills on teh franchise's fate. Over a period of 1 minute, you can
+    study a creature killed by someone in your franchise within the last 24 hours, then grant the
+    character who slew it a d10. Once within the next hour, that character can add teh d10 to an
+    attack roll, ability check, or saving throw. If it's not clear who administered the killing
+    blow, you grant this benefit to a random creature involved in the fight. Once you use this
+    feature you can't use it again until you finish a long rest.
+
+    **Ways to Read the Kill**
+    
+    +----+------------------------------------------------------------------------------------------------------------------------------------------------+
+    | d6 | Reading                                                                                                                                        |
+    +----+------------------------------------------------------------------------------------------------------------------------------------------------+
+    | 1  | Using a tiny bellows to pump one last breath into a corpse                                                                                     |
+    +----+------------------------------------------------------------------------------------------------------------------------------------------------+
+    | 2  | Reading the netrails with special reading-the-entrails glasses                                                                                 |
+    +----+------------------------------------------------------------------------------------------------------------------------------------------------+
+    | 3  | Burning a small piece of the body and looking for shapes in the smoke                                                                          |
+    +----+------------------------------------------------------------------------------------------------------------------------------------------------+
+    | 4  | A cautious, reasoned, professional guesstimate                                                                                                 |
+    +----+------------------------------------------------------------------------------------------------------------------------------------------------+
+    | 5  | Careful measurements. The distnace between nostrils. The difference between index finger and the middle finger. The elasticity of the earlobe. |
+    +----+------------------------------------------------------------------------------------------------------------------------------------------------+
+    | 6  | You take a long, careful look, and then decide based on which fellow franchisee has been nice to you lately                                    |
+    +----+------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Eldritch Occultant
+    Starting at **Rank 2**, your occultant abacus becomes an uncommon magic item that can track
+    lives both eliminated and saved. While holding your *occultant abacus* within 5 feet of a
+    creature killed within the past 24 hours, you can cast the *augery* spell. The course of action
+    you inquire about with the spell does not need to have any connection to the dead creature. This
+    property of the *occultant abacus* can't be used again until the next dawn.
+
+Bring Out Your Dead
+    Also at **Rank 2**,  you regain the use of your Read the Kill feature after you finish a short
+    or long rest.
+
+Bead of Instant Karma
+    At **Rank 3**, one of the beads on your *occultant abacus* channels the power of instant karma,
+    turning the *occultant abacus* into a rare magic item. As a reaction, you can target one
+    creature you can see that is about to attempt an ability check, attack roll, or saving throw,
+    either granting advantage or imposing disadvantage on the roll. The bead crumbles to dust when
+    used, reappearing on your *occultant abacus* at the next dawn.
+
+Death's Omen
+    Also at **Rank 3**, you gain the ability to read the grim portents of a creature's demise. As a
+    bonus action, choose a creature you can see that is below its hit point maximum and make a DC 15
+    Wisdom (Insight) check. On a success, you determine whether this creature's immediate death
+    would have a neutral, negative, or positive ramifications for you and your franchise. If the
+    ramifications are different for you and the franchise, you learn this as well.
+
+Bead of Diverted Karma
+    At **Rank 4**, one of the beads on your *occultant abacus* allows you to divert karma to where
+    it's needed, turning the *occultant abacus* into a very rare magic item. While the bead is
+    unused, you know automatically when any creature that you can see is about to make an ability
+    check, attack roll, or saving throw with disadvantage. When such a roll is made, you can use a
+    reaction to grant a d10 to a different creature you can see. That creature can add d10 to any
+    ability check, attack roll or saving throw it makes within the next minute. The bead crumbles to
+    dust when used, reappearing on your *occultant abacus* at the next dawn.
+
+Correct the Balance
+    As a **Rank 4** occultant, you learn that sometimes the death of a creature has unintended
+    consequences. Within seven days of a creature's death, you can use your *occultant abacus* to
+    divine ways to reverse or mitigate events resulting from that death. As an action, make a DC 15
+    Intelligence (Religion) check.  On a success, you learn the relevant information based on the
+    nature of the creature and its place in the world.
+
+    If you fail the check, this property of the *occultant abacus* can't be used again until the
+    next dawn. If you succeed on the check, this property can't be used again  until seven days
+    later.
+
+Why Be an Occultant?
+-------------------
+
++----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| d8 | Reason                                                                                                                                                                                                             |
++----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1  | You believe in karmic balance, but hate the idea that "balance" means good and bad things can both happen to you. Good things happening to you and bad things happening to other people seem perfectly reasonable. |
++----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2  | You love drinking tea and hate cleaning up, so you pretending that the dregs in those dozen of empty cups are there to show ill omens and portents is a perfect cover.                                             |
++----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3  | You collected beads carved as skulls as a child. Nobody ever told you there was a career in that sort of thing                                                                                                     |
++----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4  | You watched someone close to you die, and were overcome by the feeling that you should be making money off it somehow                                                                                              |
++----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5  | You've always owned a stuffed cat. You're not sure where it came from, but it's given you great career advice so far.                                                                                              |
++----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 6  | You've always worn a lot of black                                                                                                                                                                                  |
++----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 7  | You really wanted a job where you can hide a fog machine under the desk for dramatic effect during meetings.                                                                                                       |
++----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 8  | You have an obsession with death that clearly marks you for great things.                                                                                                                                          |
++----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

@@ -1,0 +1,152 @@
+Obviator
+########
+
+    *I adjust the odds and remove obstacles to create maximum convenience for our franchise*
+        \- Obviator creed
+
+    Obstacles abound along the path to riches. A franchise's mission success might require combating
+    a rival organization's disinformation attempts one day, then besting a castle's defenses are
+    next. The day after that, some poor sap named Bob might need to be disposed of. And no matter
+    what type of challenge that needs to be overcome, the franchise's obviator determines the
+    optimal way to shut down and destroy that challenge. (Nothing personal, Bob. It's just
+    business).
+
+    As an obviator, you hatch convoluted plans to fight the overwhelming odds presented by each
+    mission --by whatever means are necessary. Sometimes you might prefer brute strength over
+    improvisation, other times you might undertake a deep study of conflicts and rival
+    organizations, working carefully to stay three steps ahead of the opposition. In all cases,
+    though, you help advance your franchise by hatching effective plans and tactics, anticipating
+    problems, and learning about your foes -- ideally before they can treat you as an obstacle to
+    their own success.
+
+Noteworthy Obviators
+    Lok
+
+Essential Functions
+    Destroy targets (people and information); study conflicts
+
+Position Proficiency
+    In addition to the proficiencies listed below, you can add your proficiency bonus to an ability
+    check to make sense of an enemy's tactics, discern a hidden threat, or intimidate a foe whose
+    weaknesses you have previously assessed (See "Read the Opposition" below).
+
+    As a **Rank 1** obviator, you gain proficiency with alchemist's supplies.
+
+    Head Office also grants you the use of alchemist's supplies (two glass beakers, a metal frame to
+    hold a beaker in place over an open flame, a glass stirring rod, a small mortar and pestle, and
+    a poiuch of common alchemical ingredients including salt, powdered iron, and purified water);
+    your choice of a vial of acid, a flask of alchemist's fire, or a vial of antitoxin; and a
+    hunting trap.
+
+Ability Advancement
+    +----------------+-----------------------------------------------------------+
+    | Franchise Rank | Features                                                  |
+    +================+===========================================================+
+    | 1              | Proficiencies and starting equipment, Read the Opposition |
+    +----------------+-----------------------------------------------------------+
+    | 2              | Alchemist's Insight, Obviator's Lenses                    |
+    +----------------+-----------------------------------------------------------+
+    | 3              | Advanced Preparations, Travel Alchemical Kit              |
+    +----------------+-----------------------------------------------------------+
+    | 4              | Enhanced Lenses, Obviate the Opposition                   |
+    +----------------+-----------------------------------------------------------+
+
+Read the Opposition
+    Also at **Rank 1**, you can attempt to get a reading on one creature you can see, trying to
+    learn useful information about it. As a bonus action, make a DC 15 Wisdom (Insight) check. On a
+    success, you learn three details of your choice about the creature. Once you use this feature,
+    you can't use it again until you finish a long rest. You can use this feature only once on any
+    creature.
+
+    Possible details you might learn include the creature's goals or motivation, bonds or ideals,
+    personality traits, flaws, combat strategy (including common attack methods or tactics),
+    financial information, lair location, allies or foes, romantic entanglements, sense of humor, or
+    favorite songs.
+
+Alchemist's Insight
+    At **Rank 2**, you can use an action to use your alchemist's supplies to identify any unknown
+    substance (including alchemical items, potions, and other magical substances). Once you use this
+    feature, you cannot use it again until you finish a long rest.
+
+    **Where You First Dabbled in Alchemy**
+
+    +----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    | d8 | Learning Experience                                                                                                                                                                       |
+    +----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    | 1  | You traveled with a charlatan alchemist for years, until they were arrested for selling fake healing potions. You still remember how to get the taste just right.                         |
+    +----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    | 2  | You were once the head dishwasher in a famous wizard's college                                                                                                                            |
+    +----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    | 3  | One of your parents was a healer in a small outpost, and they taught you that even the most mundane flora and natural materials can be used to wondrous effect.                           |
+    +----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    | 4  | While lost in the <TODO> Underdark, you were forced to consume mold, fungus, and inspect parts to survive. You developed a taste for that sort of thing.                                  |
+    +----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    | 5  | You think you might be addicted to holy water. You just can't stop drinking it long enough to find out for sure.                                                                          |
+    +----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    | 6  | You were once the personnel manager of a struggling business and needed to come up with an herbal cure-all that would keep employees awake for eighteen-hour shifts. No one died, mostly. |
+    +----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    | 7  | As the child of a wealthy and despodic noble, you learned to smell poisoned pastries a mile off. A shame that your siblings weren't so talented.                                          |
+    +----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    | 8  | As a server in a tavern, you refined the perfect hangover cure but never wrote the recipe down. Now you're desperate to recreate it.                                                      |
+    +----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Obviator's Lenses
+    Also at **Rank 2**, you gain the use of an uncommon magic item taking the form of a pair of
+    spectacles, a spyglass, a monocle, or any other device with one or two lenses. When you look
+    through the *obviator's lenses*, you use a bonus action to make them function as *eyes of minute
+    seeing* or *eyes of the eagle*. Once you make this choice, it cannot be changed until the next
+    dawn.
+
+Advance Preparations
+    At **Rank 3**, you gain the ability to declare that you're totally prepared. This preparedness
+    takes the form of asking yourself one question, then making a DC 15 Intelligence (History)
+    check. On a success, you recall information that could have been uncovered through earlier
+    research about your mission. The information can be discreet revelation, a vague hint, or even a
+    riddle. Once you use this feature, you cannot use it again until you have finished a long rest.
+
+Travel Alchemical Kit
+    Also at **Rank 3**, Head Office provides you with a travel alchemical kit--an uncommon magic
+    item containing miniaturized versions of both alchemist's supplies and a poisoner's kit (glass
+    vials, a mortar and pestle, chemicals, and a glass stirring rod). You gain proficiency with a
+    poisoner's kit as a part of this upgrade.
+
+    You can use this magical kit as long as it is on your person, with no need to draw or stow it.
+    If you are ever searched, finding your travel alchemical kit requires a successful DC 20
+    Intelligence (Investigation) or Wisdom (Insight) check.
+
+Enhanced Lenses
+    At **Rank 4**, your *obviator's lenses* gain additional power and become a rare magic item. The
+    lenses now function as both *eyes of the eagle* and *eyes of minute seeing*. 
+
+    Additionally, you can focus the power of the lenses to gain accuracy in combat, gaining
+    advantage on a weapon attack roll (no action required). If that attack hits, roll one additional
+    weapon damage die. This property of the lenses cannot be used again until the next dawn.
+
+Obviate the Opposition
+    Also at **Rank 4**, when you use your Read the Opposition feature and fail the check, you still
+    learn one detail about the target creature, as chosen by the Dm. Additionally, you can use Read
+    the Opposition more than once on the same creature, but if you do so you cannot use this feature
+    again on teh same creature until you finish a long rest.
+
+Why Be an Obviator?
+-------------------
+
++----+----------------------------------------------------------------------------------------------------+
+| d8 | Reason                                                                                             |
++----+----------------------------------------------------------------------------------------------------+
+| 1  | There's nothing that excites you more than a puzzle you can't immediately solve.                   |
++----+----------------------------------------------------------------------------------------------------+
+| 2  | Your favorite saying is, "All according to plan." Especially when you have no idea what's going on |
++----+----------------------------------------------------------------------------------------------------+
+| 3  | You have an entire room dedicated to notes and sketches connected to red yarn                      |
++----+----------------------------------------------------------------------------------------------------+
+| 4  | Your plans are so detailed that they have plans of their own                                       |
++----+----------------------------------------------------------------------------------------------------+
+| 5  | you find the little details so much more interesting than... well, anything                        |
++----+----------------------------------------------------------------------------------------------------+
+| 6  | You already had the alchemical burns on your hands. Might as well make it official.                |
++----+----------------------------------------------------------------------------------------------------+
+| 7  | Methodical. Calculating. Brilliant. One day, you hope these words will apply to you.               |
++----+----------------------------------------------------------------------------------------------------+
+| 8  | It's not paranoia if they really are out to get you. And if you're out to get them first.          |
++----+----------------------------------------------------------------------------------------------------+

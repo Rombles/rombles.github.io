@@ -1,7 +1,9 @@
 Gaaki Hildenman
 ~~~~~~~~~~~~~~~
 
-**Owner** and operator of `The Mare’s Whinney, </docs/notable_cities.html#the-mares-whinney>`__ Gaaki is a female half-orc.
+**Owner** and operator of 
+`The Mare’s Whinney, </docs/notable_cities/kassoon.html#the-mares-whinney>`__ 
+Gaaki is a female half-orc.
 
 Garfield, the Deals Warlock
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -14,8 +16,8 @@ whimsical, Garfield is happy to make a deal at whatever the cost.
 Gendra Jade
 ~~~~~~~~~~~
 
-The owner of `The Falling Rod </docs/notable_cities/deepfathom.html>`__, Gendra was
-once a miner herself. The she took a rig to the knee and her amputated leg
+The owner of `The Falling Rod </docs/notable_cities/deepfathom.html#falling-rod-tavern>`__
+, Gendra was once a miner herself. The she took a rig to the knee and her amputated leg
 pushed her into a different line of work.
 
 Gimish Coggsnoggin

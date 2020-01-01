@@ -4,7 +4,9 @@ Other Locations
 Barony of Bedegar
 *****************
 
-The Barony of Bedegar is a quaint little barony. Not thar large, the barony boasts most of the agricultural proceeds of the Kingdom. With farming villages like `Gravesford </docs/notable_cities/gravesford.html>`__.
+The Barony of Bedegar is a quaint little barony. Not thar large, the barony boasts most of the 
+agricultural proceeds of the Kingdom. With farming villages like 
+`Gravesford </docs/notable_cities/gravesford.html>`__.
 
 Bedegar Keep
 **************
@@ -18,8 +20,11 @@ Havel’s Crossing
 ****************
 
 Large tavern/stable/inn as a rest stop location for large carriage
-passways. Was ransacked by `Calador <appendix_b/C.html#calador>`__ and the rest of his ghoulish party
-after being overcome by `The Bone of Doresain. <items.html#the-bone-of-doresain>`__
+passways. Was ransacked by 
+`Calador <appendix_b/C.html#calador>`__ 
+and the rest of his ghoulish party
+after being overcome by 
+`The Bone of Doresain. <items.html#the-bone-of-doresain>`__
 
 The Fantasy Costco
 ******************
@@ -43,8 +48,11 @@ The Ouroboros Temple (Original)
 
 Source location of 
 `The Ouroboros Cult <religions_and_organizations.html#ouroboros-worshippers-cult>`__.
-It was here that `Calador <appendix_b/C.html#calador>`__ found 
-`The Bone of Doresain <items.html#the-bone-of-doresain>`__ and was overcome by its inherent evil energy.
+It was here that 
+`Calador <appendix_b/C.html#calador>`__ 
+found 
+`The Bone of Doresain <items.html#the-bone-of-doresain>`__ 
+and was overcome by its inherent evil energy.
 
 The Ouroboros Temple (Headquarters)
 ***********************************
@@ -52,8 +60,11 @@ The Ouroboros Temple (Headquarters)
 Headquarters to the Acquisitions Incorporated franchise 
 `Hot Mess of Brie <franchises.html#hot-mess-of-brie>`__.
 Was once the temple of a doomsday cult, but was moved by magical means
-by `Jim Darkmagic <appendix_b/J.html#jim-darkmagic>`__ to the city of 
-`Kasoon <notable_cities/kassoon.html>`__ in the 
+by 
+`Jim Darkmagic <appendix_b/J.html#jim-darkmagic>`__ 
+to the city of 
+`Kasoon <notable_cities/kassoon.html>`__ 
+in the 
 `Principality of Mingia <world.html#the-principality-of-mingia>`__.
 
 Oddly, there is a magical quirk in this building that causes each
@@ -77,8 +88,8 @@ whatever they could to sate their greed. Eventually this lead to their
 downfall, causing them to rot in their graves with powerful protectors
 to keep their wealth with them.
 
-`Gimish Cogsnoggin <appendix_b/G.html#gimish-coggsnoggin>`__ knows tons of 
-information about this tomb site, but he just needed some prodding.
+`Gimish Cogsnoggin <appendix_b/G.html#gimish-coggsnoggin>`__ 
+knows tons of information about this tomb site, but he just needed some prodding.
 
 The Tomb of the Dawn Prince
 ===========================
@@ -86,8 +97,10 @@ The Tomb of the Dawn Prince
 
 It is in this tomb that the Adventurers met a nest of stirges and one
 angry Carrion Crawler, hell-bent on snapping 
-`Eberhard <adventurers.html#eberhard>`__ and 
-`Charlie the Mastiff’s <adventurers.html#charlie>`__ limbs.
+`Eberhard <adventurers.html#eberhard>`__ 
+and 
+`Charlie the Mastiff’s <adventurers.html#charlie>`__ 
+limbs.
 
 The Tomb of the Meridian Lord
 =============================

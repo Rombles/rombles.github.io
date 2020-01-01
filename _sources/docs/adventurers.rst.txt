@@ -6,6 +6,8 @@ Bolson Longlake
 
 Dragonborn Paladin.
 
+Guild Position: *Unknown*
+
 Feature: Researcher
 ===================
 
@@ -23,34 +25,6 @@ Notable Achievements
   `Castle Rend </docs/other_locations.html#castle-rend>`__
   , Bolson immediately shackled the wraith and went toe-to-toe until one of them died!
 
-Eberhard
-********
-
-Half Elf Fighter. Always rushes in without thinking about the
-consequences of his actions.
-
-Notable Achievements
-====================
-
-Gryzar Bloodforge
-*****************
-
-Son of `Thythran Bloodforge. <appendix_b/T.html#thythran-bloodforge>`__ Carries an executioner’s axe and a spiked gauntlet.
-Adept berserker who can be quite crude.
-
-Notable Achievements
-====================
-
--  Attempted to murder `The Grand Vizer Faen <appendix_b/F.html#grand-vizer-faen>`__ 
-   in an attempt to collect on a family blood debt to `Calador, <appendix_b/C.html#calador>`__
-   the responsible party to `Graz Stonebreaker’s <appendix_b/G.html#graz-stonebreaker>`__ death.
-
--  Broken out of jail by `Randy Randerson <adventurers.html#randy-randerson>`__
-   as a favor to `Jim Darkmagic <appendix_b/J.html#jim-darkmagic>`__
-   because of the role he expects Gryzar to play in the removal of The
-   `Grand Vizer Faen <appendix_b/F.html#grand-vizer-faen>`__ for the long-term benefit of Acquisitions
-   Incorporated and `Hot Mess of Brie.  <franchises.html#hot-mess-of-brie>`__
-
 Gustavo Pompodorious
 ********************
 
@@ -59,6 +33,8 @@ Half-elf Bard, College of Glamour
 Gustavo is a very self-involved character. Having grown up rich with nothing better to do, Gustavo spent most of
 his time reading dime novels about an over-glorified adventurer. Once he finished reading them all (over a dozen
 times, at least), he decided to become an adventurer himself.
+
+Guild Position: `Secretarian </docs/appendix_a/secretarian.html>`__
 
 Notable Achievements
 ====================
@@ -83,6 +59,8 @@ always recall the general layout of terrain, settlements, and other
 features around her. In addition, she can find food and fresh water for
 herself and up to five other people each day, provided that the land
 offers berries, small game, water, and so forth.
+
+Guild Position: `Cartographer </docs/appendix_a/cartographer.html>`__
 
 Charlie
 =======
@@ -121,13 +99,7 @@ Kadar
 
 Dwarf Cleric, servant of Helm
 
-Notable Achievements
-====================
-
-Magnus
-******
-
-Human necromancer
+Guild Position: `Loremonger </docs/appendix_a/loremonger.html>`__
 
 Notable Achievements
 ====================
@@ -137,11 +109,21 @@ Randy Randerson
 
 Half-elf Fighter/Gunslinger. Much more interested in shooting first
 before asking questions. Responsible for breaking Gryzar out of The
-`Grand Vizer Faen’s <appendix_b/F.html#grand-vizer-faen>`__ Gnoll Jail - a 
-one-man contract offered directly by `Jim Darkmagic.  <appendix_b/J.html#jim-darkmagic>`__
+`Grand Vizer Faen’s <appendix_b/F.html#grand-vizer-faen>`__ 
+Gnoll Jail - a one-man contract offered directly by 
+`Jim Darkmagic.  <appendix_b/J.html#jim-darkmagic>`__
+
+Guild Position: `Hoardsperson </docs/appendix_a/hoardsperson.html>`__
 
 Notable Achievements
 ====================
 
--  Rescued `Gryzar Bloodforge <adventurers.html#gryzar-bloodforge>`__ from an illusion-laden Gnoll Jail
+-  Rescued `Gryzar Bloodforge </docs/retired_adventurers/gryzar.html>`__
+   from an illusion-laden Gnoll Jail
 
+
+Retired Heroes
+**************
+- `Eberhard </docs/retired_adventurers/eberhard.html>`__
+- `Magnus </docs/retired_adventurers/magnus.html>`__
+- `Gryzar Bloodforge </docs/retired_adventurers/gryzar.html>`__
